@@ -6,6 +6,8 @@
 
 - Use "shortcodes" to implement Google calendar.
 
+Nothing is ever easy, so we already need some hacking to make Hugo (static asset URLs) work with GitHub pages. Now using the "relativeURLs" option for Hugo and providing the relative URL in each link.
+
 ## SEO
 
 ### Hugo resources
