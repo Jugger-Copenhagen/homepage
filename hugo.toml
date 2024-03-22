@@ -1,0 +1,6 @@
+baseURL = 'https://jugger-copenhagen.github.com/'
+languageCode = 'en-us'
+title = 'Jugger Copenhagen'
+
+[params]
+name = 'Thomas van Gemert'
