@@ -6,8 +6,22 @@
     <description>Recent content in Home on Jugger Copenhagen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Mar 2024 13:56:08 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 20:05:37 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/homepage-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Three</title>
+      <link>http://localhost:1313/homepage-testing/news/test-three/</link>
+      <pubDate>Wed, 27 Mar 2024 20:05:37 +0100</pubDate>
+      <guid>http://localhost:1313/homepage-testing/news/test-three/</guid>
+      <description>Just for good measure, a third test.</description>
+    </item>
+    <item>
+      <title>Test Two</title>
+      <link>http://localhost:1313/homepage-testing/news/test-two/</link>
+      <pubDate>Wed, 27 Mar 2024 19:58:08 +0100</pubDate>
+      <guid>http://localhost:1313/homepage-testing/news/test-two/</guid>
+      <description>In the second test, we will be looking at how to iterate over children in the News section!</description>
+    </item>
     <item>
       <title>Try Jugger!</title>
       <link>http://localhost:1313/homepage-testing/try/</link>

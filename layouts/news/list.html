@@ -1,7 +1,10 @@
 {{ define "main" }}
 <h1 class="page-title"> {{ .Page.Title }} </h1>
+
+{{ .Content }}
+
 <ul>
-    {{ range .Pages }}
+    {{ range (where .Site.RegularPages "Type" "news" ) }}
     <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a> - {{ .Date.Format "2 January 2006" }}
     </li>
