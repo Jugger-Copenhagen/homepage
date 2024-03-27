@@ -34,7 +34,7 @@ body {
     text-align: center;
     vertical-align: middle;
     border: 1px solid blue;
-    background-image: url('../banner.jpg');  /* This file lives in the "sass" directory, so we need to jump up one to access static content. */
+    background-image: url('banner.jpg'); 
     background-position: center;
 }
 
