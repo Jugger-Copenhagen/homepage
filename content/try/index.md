@@ -1,5 +1,6 @@
 ---
 title: 'Try Jugger!'
+menu-title: Try
 description: We are always happy to welcome curious people.
 date: 2024-03-22T13:56:08+01:00
 draft: false

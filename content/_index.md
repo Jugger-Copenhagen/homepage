@@ -1,5 +1,7 @@
 ---
-title: Home
+title: Home of Jugger Copenhagen
+params:
+    subtitle: Probably the best jugger club in Denmark.
 description: This is the home page of the Jugger Copenhagen website.
 ---
 

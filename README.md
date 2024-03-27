@@ -2,6 +2,12 @@
 
 ...
 
+## To-Do
+
+[ ] Implement a dynamic menu. It should link to the top-level sections.
+[ ] Implement flexbox content elements on homepage.
+[ ] Implement Google calendar on homepage.
+
 ## Hugo
 
 - Use "shortcodes" to implement Google calendar.
