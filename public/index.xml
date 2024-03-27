@@ -6,8 +6,15 @@
     <description>Recent content in Home of Jugger Copenhagen on Jugger Copenhagen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Mar 2024 20:05:37 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 21:02:40 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/homepage-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Join the club!</title>
+      <link>http://localhost:1313/homepage-testing/join/</link>
+      <pubDate>Wed, 27 Mar 2024 21:02:40 +0100</pubDate>
+      <guid>http://localhost:1313/homepage-testing/join/</guid>
+      <description>Want to become a member? {{ with .GetPage &amp;ldquo;try&amp;rdquo; }}&#xA;Come to a practice or two and [{{ .Title }}]({{ .Permalink }})! Fill out the membership registration form. Pay membership fee (see below). Membership 25 and over: 200 kr. / quarter Under 25: 120 kr. / quarter&#xA;Payment info. Payments are made by bank transfer.&#xA;Within Denmark: 5327-0246710 IBAN: DK4353270000246710 (Arbejdenes Landesbank)</description>
+    </item>
     <item>
       <title>Test Three</title>
       <link>http://localhost:1313/homepage-testing/news/test-three/</link>
