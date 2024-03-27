@@ -69,4 +69,4 @@ We always welcome travelling juggers to play with us!  It’s important to us as
 
 Reach out to one of our board members at [juggercopenhagen@gmail.com](mailto:juggercopenhagen@gmail.com).  We can probably also find one of the local players to host you.
 
-![Players practicing 1-on-1 duels at training in May 2022.](horiz_action_jgr.jpeg)
+{{< figure src="horiz_action_jgr.jpeg" title="Players practicing 1-on-1 duels at training in May 2022.">}}
