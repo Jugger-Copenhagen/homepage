@@ -4,10 +4,11 @@
 
 ## To-Do
 
-[ ] Implement a dynamic menu. It should link to the top-level sections.
+[X] Implement a dynamic menu. It should link to the top-level sections.
 [ ] Implement flexbox content elements on homepage.
 [ ] Implement Google calendar on homepage.
-
+[ ] Automatically populate the tournaments page based on event date and title.
+ 
 ## Hugo
 
 - Use "shortcodes" to implement Google calendar.
