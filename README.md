@@ -8,6 +8,7 @@
 [ ] Implement flexbox content elements on homepage.
 [ ] Implement Google calendar on homepage.
 [ ] Automatically populate the tournaments page based on event date and title. Create a shortcode to do this.
+[ ] Add a "go to top" button / Footer
  
 ## Hugo
 
