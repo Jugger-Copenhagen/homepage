@@ -3,7 +3,7 @@ title: Contact
 menu_title: Contact
 description: 
 date: 2024-04-03T14:46:15+02:00
-draft: true
+draft: false
 weight: 20
 ---
 

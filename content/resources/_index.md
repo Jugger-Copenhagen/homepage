@@ -3,7 +3,7 @@ title: Resources
 menu_title: Resources
 description: Contains various tips, tricks, media, and tutorials for playing Jugger.
 date: 2024-04-03T15:26:17+02:00
-draft: true
+draft: false
 weight: 18
 ---
 
