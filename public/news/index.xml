@@ -2,31 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Jugger Copenhagen</title>
-    <link>http://localhost:1313/homepage-testing/news/</link>
+    <link>https://jugger-copenhagen.github.io/homepage-testing/news/</link>
     <description>Recent content in News on Jugger Copenhagen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Mar 2024 20:05:37 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/homepage-testing/news/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test Three</title>
-      <link>http://localhost:1313/homepage-testing/news/test-three/</link>
-      <pubDate>Wed, 27 Mar 2024 20:05:37 +0100</pubDate>
-      <guid>http://localhost:1313/homepage-testing/news/test-three/</guid>
-      <description>Just for good measure, a third test.</description>
-    </item>
-    <item>
-      <title>Test Two</title>
-      <link>http://localhost:1313/homepage-testing/news/test-two/</link>
-      <pubDate>Wed, 27 Mar 2024 19:58:08 +0100</pubDate>
-      <guid>http://localhost:1313/homepage-testing/news/test-two/</guid>
-      <description>In the second test, we will be looking at how to iterate over children in the News section!</description>
-    </item>
+    <lastBuildDate>Fri, 22 Mar 2024 13:53:56 +0100</lastBuildDate>
+    <atom:link href="https://jugger-copenhagen.github.io/homepage-testing/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome!</title>
-      <link>http://localhost:1313/homepage-testing/news/welcome/</link>
+      <link>https://jugger-copenhagen.github.io/homepage-testing/news/welcome/</link>
       <pubDate>Fri, 22 Mar 2024 13:53:56 +0100</pubDate>
-      <guid>http://localhost:1313/homepage-testing/news/welcome/</guid>
+      <guid>https://jugger-copenhagen.github.io/homepage-testing/news/welcome/</guid>
       <description>We’re Denmark’s first official jugger club! Jugger is a 5v5 team field sport that plays like competitive LARP: blending elements of fencing, rugby, and capture-the-flag.&#xA;Welcome, everyone, to the new website of Jugger Copenhagen! This article provides a brief introduction to what you can now find here.</description>
     </item>
   </channel>

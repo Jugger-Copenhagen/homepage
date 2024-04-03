@@ -1,1 +1,23 @@
 User-agent: *
+
+Disallow: /homepage-testing/news/
+
+Disallow: /homepage-testing/try/
+
+Disallow: /homepage-testing/join/
+
+Disallow: /homepage-testing/events/
+
+Disallow: /homepage-testing/culture/
+
+Disallow: /homepage-testing/
+
+Disallow: /homepage-testing/culture/jersey-trading/
+
+Disallow: /homepage-testing/news/welcome/
+
+Disallow: /homepage-testing/categories/
+
+Disallow: /homepage-testing/tags/
+
+

@@ -1,6 +1,6 @@
 body {
     margin: 0 auto;
-    font-family: system-ui;
+    font-family: system-ui, sans-serif;
 }
 
 .content-wrapper {

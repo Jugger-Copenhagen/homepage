@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tournaments &amp; Events on Jugger Copenhagen</title>
-    <link>http://localhost:1313/homepage-testing/events/</link>
+    <link>https://jugger-copenhagen.github.io/homepage-testing/events/</link>
     <description>Recent content in Tournaments &amp; Events on Jugger Copenhagen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Mar 2024 21:48:02 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/homepage-testing/events/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fantastic Awesome Jugger Tournament</title>
-      <link>http://localhost:1313/homepage-testing/events/tournaments/fajt-2024/</link>
-      <pubDate>Wed, 27 Mar 2024 21:48:02 +0100</pubDate>
-      <guid>http://localhost:1313/homepage-testing/events/tournaments/fajt-2024/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://jugger-copenhagen.github.io/homepage-testing/events/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
