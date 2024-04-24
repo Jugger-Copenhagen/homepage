@@ -1,25 +1,32 @@
 <!doctype html>
 <html>
 
-<head>
-    {{ partial "head/meta.html" . }}
-    {{ partial "head/stylesheets.html" . }}
-</head>
-
 <body>
+
+    <head>
+        {{ partial "head/meta.html" . }}
+        {{ partial "head/stylesheets.html" . }}
+    </head>
+
     <header>
         {{ partial "header/site-nav.html" . }}
         {{ partial "header/site-header.html" . }}
     </header>
 
-    <main>
-        {{ block "main" . }}
-        {{ end }}
-    </main>
+    <div class="content-wrapper">
+
+        <main>
+            {{ block "main" . }}
+            {{ end }}
+        </main>
+
+    </div>
 
     <footer>
         {{ partial "footer/footer.html" . }}
     </footer>
+
 </body>
+
 
 </html>

@@ -1,10 +1,19 @@
 body {
-    width: 800px;
     margin: 0 auto;
-    font-family: sans-serif;
+    font-family: system-ui, sans-serif;
+}
+
+.content-wrapper {
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
 img {
     max-width: 100%;
     height: auto;
+}
+
+.person-table img {
+    width: 100px;
+    aspect-ratio: 3/4;
 }

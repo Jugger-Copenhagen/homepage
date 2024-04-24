@@ -2,6 +2,7 @@ baseURL = 'https://jugger-copenhagen.github.io/homepage-testing/'
 languageCode = 'en-us'
 title = 'Jugger Copenhagen'
 relativeURLs = true
+enableRobotsTXT = true
 
 [params]
 name = 'Thomas van Gemert'

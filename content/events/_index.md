@@ -23,4 +23,4 @@ Flavor info about these tournaments is in [Google Docs](https://docs.google.com/
 
 **TODO**: Create a listing system for tournaments. Put tournament info into separate posts.
 
-{{< figure src="bch.jpeg" title="Jugger Copenhagen warming up before the beach tournament in Rostock, Germany, in June 2023.">}}
+{{< figure src="./bch.jpeg" title="Jugger Copenhagen warming up before the beach tournament in Rostock, Germany, in June 2023.">}}
