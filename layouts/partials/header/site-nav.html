@@ -1,16 +1,18 @@
 <nav>
-    <ul>
-        <li><a href="/">Home</a></li>
-        {{ range .Site.Sections }}
-        <li>
-            <a href="{{ .Permalink }}">
-                {{ if .Params.menu_title }}
-                {{ .Params.menu_title }}
-                {{ else }}
-                {{  .Title }}
-                {{ end }}
-            </a>
-        </li>
-        {{ end }}
-    </ul>
+    <div class="centering">
+        <ul>
+            <li><a href="/">Home</a></li>
+            {{ range .Site.Sections }}
+            <li>
+                <a href="{{ .Permalink }}">
+                    {{ if .Params.menu_title }}
+                    {{ .Params.menu_title }}
+                    {{ else }}
+                    {{  .Title }}
+                    {{ end }}
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
 </nav>

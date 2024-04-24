@@ -1,11 +1,17 @@
+:root {
+    --main-content-width: 1200px;
+    --main-block-gap: 1em;
+}
+
 body {
     margin: 0 auto;
     font-family: system-ui, sans-serif;
 }
 
 .content-wrapper {
-    max-width: 1200px;
+    max-width: var(--main-content-width);
     margin: 0 auto;
+    padding-top: var(--main-block-gap);
 }
 
 img {
@@ -13,14 +19,48 @@ img {
     height: auto;
 }
 
+.subtitle {
+    margin: 0;
+    font-weight: 300;
+    font-style: italic;
+    margin-top: -0.5em;
+}
+
 .grid-container {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    column-gap: 1em;
+    grid-template-columns: calc(var(--main-content-width) / 2 - var(--main-block-gap) / 2) calc(var(--main-content-width) / 2 - var(--main-block-gap) / 2);
+    column-gap: var(--main-block-gap);
+    row-gap: var(--main-block-gap);
 }
 
 .home-block {
     border: 1px solid black;
+}
+
+#instagram {
+    margin: 0 auto;
+}
+
+#faq ol {
+    padding-inline-start: 2em;
+    margin-bottom: 0.5em;
+    font-style: italic;
+}
+
+#faq ol + p {
+    font-style: normal;
+    padding-inline-start: 2em;
+    margin: 0;
+}
+
+.end-img {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--main-block-gap);
+}
+
+.gallery-img {
+    margin: auto 0;
 }
 
 .person-table img {

@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jugger Copenhagen</title>
+    <title>Welcome to Jugger Copenhagen! on Jugger Copenhagen</title>
     <link>http://localhost:1313/homepage-testing/</link>
-    <description>Recent content on Jugger Copenhagen</description>
+    <description>Recent content in Welcome to Jugger Copenhagen! on Jugger Copenhagen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Mar 2024 21:48:02 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 11:43:04 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/homepage-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>http://localhost:1313/homepage-testing/faq/</link>
+      <pubDate>Wed, 24 Apr 2024 11:43:04 +0200</pubDate>
+      <guid>http://localhost:1313/homepage-testing/faq/</guid>
+      <description>Can anyone play this sport? Yes, they can!&#xA;How difficult is it? Very.&#xA;Don&amp;rsquo;t you guys have jobs? Of course! How else could we afford our expensive pool-noodle-and-carbon-stick gear?&#xA;Could you recite a bit of Lorem Ipsum for me? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </item>
     <item>
       <title>Fantastic Awesome Jugger Tournament</title>
       <link>http://localhost:1313/homepage-testing/events/tournaments/fajt-2024/</link>

@@ -1,6 +1,6 @@
 nav {
   background: #111;
-  margin: 0px auto;
+  /* margin: 0 auto; */
   padding: 1em;
  
   ul {
@@ -8,8 +8,8 @@ nav {
     column-gap: 2em;
     padding: 0px;
     list-style: none;
-    max-width: 1000px;
-    margin: 0px auto;
+    margin: 0;
+    text-align: center;
 
     a {
       color: #fff;
@@ -20,6 +20,12 @@ nav {
       }
     }
   }
+}
+
+nav .centering {
+  width: var(--main-content-width);
+  /* border: 1px solid red; */
+  margin: 0 auto;
 }
 
 .banner {
