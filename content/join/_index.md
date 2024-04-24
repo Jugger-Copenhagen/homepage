@@ -4,7 +4,7 @@ menu_title: Join
 description: All the information and reasons to become a member of Jugger Copenhagen.
 date: 2024-03-27T21:02:40+01:00
 draft: false
-weight: 11
+weight: 12
 ---
 
 ## Want to become a member?

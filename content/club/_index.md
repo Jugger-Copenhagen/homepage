@@ -4,7 +4,7 @@ menu_title: Club
 description: 
 date: 2024-04-03T14:11:43+02:00
 draft: false
-weight: 13
+weight: 15
 ---
 
 The club started in the winter of 2017-18 when our very first set of equipment got built in the kantine at Unity. After a few years of playing and a global pandemic, we were officially founded as a folkeoplysende forening on January 29, 2022. We now play weekly together in downtown Copenhagen, and we regularly visit other countries for tournaments and trainings—especially Germany and Sweden.

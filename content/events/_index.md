@@ -4,7 +4,7 @@ menu_title: Events
 description: Tournament plans, practices, calendar, events, and more! What are we up to?
 date: 2024-03-27T21:29:38+01:00
 draft: false
-weight: 12
+weight: 14
 ---
 
 ## Placeholder for the calendar.

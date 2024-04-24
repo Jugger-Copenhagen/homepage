@@ -5,7 +5,7 @@ params:
 description: We are always happy to welcome curious people.
 date: 2024-03-22T13:56:08+01:00
 draft: false
-weight: 10
+weight: 11
 ---
 
 New players are always welcome! When you join us for the first time, please arrive 15 minutes early and tell us two days beforehand at [juggercopenhagen@gmail.com](mailto:juggercopenhagen@gmail.com); we’ll get you up to speed. 🙂
