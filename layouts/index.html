@@ -1,12 +1,32 @@
 {{ define "main"}}
 
-<h1>{{ .Title }}</h1>
-{{ with .Params.subtitle }}
-<span class="subtitle">{{ . }}</span>
-{{ end }}
 
-<div class="wrapper">
-    {{ .Content }}
+<!-- {{ with .Params.subtitle }}
+<span class="subtitle">{{ . }}</span>
+{{ end }} -->
+
+<div class="grid-container">
+    <div class="home-block" id="welcome">
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+    </div>
+    <div class="home-block" id="welcome">
+        <h1>News</h1>
+        <ul>
+            {{ range (where .Site.RegularPages "Type" "news" ) | first 5 }}
+            <li>
+                {{ .Date.Format "2 January 2006" }} &mdash; <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+    <div class="home-block">
+        <h1>Calendar</h1>
+        <p>Hello!</p>
+    </div>
+    <div class="home-block">
+        <h1>Instagram</h1>
+    </div>
 </div>
 
 {{ end }}

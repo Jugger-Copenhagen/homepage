@@ -8,11 +8,21 @@ Disallow: /homepage-testing/join/
 
 Disallow: /homepage-testing/events/
 
+Disallow: /homepage-testing/club/
+
+Disallow: /homepage-testing/resources/
+
 Disallow: /homepage-testing/culture/
+
+Disallow: /homepage-testing/contact/
 
 Disallow: /homepage-testing/
 
+Disallow: /homepage-testing/events/tournaments/fajt-2024/
+
 Disallow: /homepage-testing/culture/jersey-trading/
+
+Disallow: /homepage-testing/news/test-two/
 
 Disallow: /homepage-testing/news/welcome/
 

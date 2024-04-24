@@ -4,13 +4,23 @@ body {
 }
 
 .content-wrapper {
-    max-width: 1000px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 
 img {
     max-width: 100%;
     height: auto;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1em;
+}
+
+.home-block {
+    border: 1px solid black;
 }
 
 .person-table img {
