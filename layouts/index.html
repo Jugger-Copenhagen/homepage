@@ -5,7 +5,7 @@
     {{ .Content }}
 </div>
 
-<hr>
+<!-- <hr> -->
 
 <div class="widegallery" id="highlights">
     {{ $galDir := print "/gallery" }}
@@ -19,16 +19,18 @@
     {{ end }}
 </div>
 
-<hr>
+<!-- <hr> -->
 
 <div class="homeblock contentrow" id="newsandevents">
-    <div  id="news">
+    <div id="news">
         <h1>News</h1>
         <ul>
-            {{ range (where .Site.RegularPages "Type" "news" ) | first 5 }}
-            <li>
-                {{ .Date.Format "2 January 2006" }} &mdash; <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </li>
+            {{ range (where .Site.RegularPages "Type" "news" ) | first 20 }}
+            <a href="{{ .Permalink }}">
+                <li>
+                    {{ .Date.Format "2 January 2006" }} &mdash; {{ .Title }}
+                </li>
+            </a>
             {{ end }}
         </ul>
     </div>

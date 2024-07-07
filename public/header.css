@@ -53,6 +53,10 @@ nav {
       color: #fff;
       text-decoration: none;
     }
+
+    a:hover {
+      color: #e5dabf;
+    }
   }
 }
 
