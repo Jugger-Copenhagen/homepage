@@ -17,10 +17,17 @@
 
 }
 
-.skoll {
+#home_of_skøll_1 {
+  color: #4394a8;
+}
+#home_of_skøll_2 {
+  color: #e5dabf;
+}
+#home_of_skøll_3 {
   font-family: 'norsebold', sans-serif;
   font-size: 110%;
   letter-spacing: 1px;
+  color: #b93842;
 }
 
 nav {
@@ -48,7 +55,7 @@ nav {
 }
 
 nav .header_message {
-  color: #e5dabf;
+  /* color: #e5dabf; */
   text-align: left;
 }
 
