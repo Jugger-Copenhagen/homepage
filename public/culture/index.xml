@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jugger Culture on Jugger Copenhagen</title>
-    <link>http://localhost:1313/homepage-testing/culture/</link>
+    <link>//172.20.15.198:1313/culture/</link>
     <description>Recent content in Jugger Culture on Jugger Copenhagen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Mar 2024 21:36:50 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/homepage-testing/culture/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//172.20.15.198:1313/culture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jersey Trading</title>
-      <link>http://localhost:1313/homepage-testing/culture/jersey-trading/</link>
+      <link>//172.20.15.198:1313/culture/jersey-trading/</link>
       <pubDate>Wed, 27 Mar 2024 21:36:50 +0100</pubDate>
-      <guid>http://localhost:1313/homepage-testing/culture/jersey-trading/</guid>
+      <guid>//172.20.15.198:1313/culture/jersey-trading/</guid>
       <description>People trade jerseys. They like this.</description>
     </item>
   </channel>
