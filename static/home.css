@@ -6,6 +6,7 @@
 
 .maintitle {
     text-align: center;
+    font-size: 300%;
 }
 
 #newsandevents {
@@ -17,6 +18,7 @@
 
 .widegallery {
     max-width: 100%;
+    overflow: hidden;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
