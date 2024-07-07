@@ -1,3 +1,52 @@
 footer {
     background: #272727;
+    color: #fff;
+    text-align: center;
+    font-size: 90%;
+  }
+
+  #copyright {
+    padding-block: 1em;
+  }
+
+  .footerholder {
+    display: flex;
+    flex-direction: row;
+    gap: 6em;
+    max-width: fit-content;
+    margin: 0 auto;
+    padding: 1em;
+  }
+
+  .footerholder div {
+    text-align: left;
+  }
+
+  .footerholder h3 {
+    font-size: 140%;
+    margin: 0;
+  }
+
+  .footerholder ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    margin-top: 0.25em;
+  }
+
+  .footerholder li {
+    padding: 0.1em 0;
+  }
+
+  footer hr {
+    max-width: 30%;
+  }
+
+  footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  footer a:hover {
+    color: #e5dabf;
   }

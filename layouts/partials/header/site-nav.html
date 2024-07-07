@@ -8,15 +8,18 @@
         <ul>
             <li><a href="/">Home</a></li>
             {{ range .Site.Sections }}
-            <li>
-                <a href="{{ .Permalink }}">
-                    {{ if .Params.menu_title }}
-                    {{ .Params.menu_title }}
-                    {{ else }}
-                    {{  .Title }}
-                    {{ end }}
-                </a>
-            </li>
+                {{ if .Params.hide }}
+                {{ else }}
+                <li>
+                    <a href="{{ .Permalink }}">
+                        {{ if .Params.menu_title }}
+                        {{ .Params.menu_title }}
+                        {{ else }}
+                        {{  .Title }}
+                        {{ end }}
+                    </a>
+                </li>
+                {{ end }}
             {{ end }}
         </ul>
     </div>

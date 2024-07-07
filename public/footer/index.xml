@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Footer Content on Jugger Copenhagen</title>
+    <link>//172.20.15.198:1313/footer/</link>
+    <description>Recent content in Footer Content on Jugger Copenhagen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jul 2024 17:50:31 +0200</lastBuildDate>
+    <atom:link href="//172.20.15.198:1313/footer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Friends</title>
+      <link>//172.20.15.198:1313/footer/friends/</link>
+      <pubDate>Sun, 07 Jul 2024 17:50:31 +0200</pubDate>
+      <guid>//172.20.15.198:1313/footer/friends/</guid>
+      <description> 🇸🇪 Jugger Umeå </description>
+    </item>
+    <item>
+      <title>Jugger</title>
+      <link>//172.20.15.198:1313/footer/jugger/</link>
+      <pubDate>Sun, 07 Jul 2024 17:49:31 +0200</pubDate>
+      <guid>//172.20.15.198:1313/footer/jugger/</guid>
+      <description> Tournaments Resources Gear </description>
+    </item>
+    <item>
+      <title>Club</title>
+      <link>//172.20.15.198:1313/footer/club/</link>
+      <pubDate>Sun, 07 Jul 2024 17:43:31 +0200</pubDate>
+      <guid>//172.20.15.198:1313/footer/club/</guid>
+      <description> Club Board Activities Etc. </description>
+    </item>
+  </channel>
+</rss>
