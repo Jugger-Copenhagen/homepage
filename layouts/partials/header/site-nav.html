@@ -1,17 +1,25 @@
 <nav>
-    <div class="centering">
+    <div class="header_message">
+        <span id="home_of_skøll_1">Home</span>
+        <span id="home_of_skøll_2">of</span>
+        <span id="home_of_skøll_3">SKØLL</span>
+    </div>
+    <div class="menu">
         <ul>
             <li><a href="/">Home</a></li>
             {{ range .Site.Sections }}
-            <li>
-                <a href="{{ .Permalink }}">
-                    {{ if .Params.menu_title }}
-                    {{ .Params.menu_title }}
-                    {{ else }}
-                    {{  .Title }}
-                    {{ end }}
-                </a>
-            </li>
+                {{ if .Params.hide }}
+                {{ else }}
+                <li>
+                    <a href="{{ .Permalink }}">
+                        {{ if .Params.menu_title }}
+                        {{ .Params.menu_title }}
+                        {{ else }}
+                        {{  .Title }}
+                        {{ end }}
+                    </a>
+                </li>
+                {{ end }}
             {{ end }}
         </ul>
     </div>

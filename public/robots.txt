@@ -16,7 +16,15 @@ Disallow: /culture/
 
 Disallow: /contact/
 
+Disallow: /footer/friends/
+
 Disallow: /
+
+Disallow: /footer/jugger/
+
+Disallow: /footer/club/
+
+Disallow: /footer/
 
 Disallow: /culture/jersey-trading/
 
