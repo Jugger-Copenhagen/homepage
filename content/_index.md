@@ -1,5 +1,5 @@
 ---
-title: Jugger Copenhagen
+title: Skøll
 params:
     message: Probably the best sport in Denmark.
 description: This is the home page of the Jugger Copenhagen website.

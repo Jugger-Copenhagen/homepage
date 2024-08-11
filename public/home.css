@@ -63,3 +63,15 @@ h1 {
 #news li:hover {
     background-color: #f0f0f0;
 }
+
+#poem {
+    text-align: center;
+    font-style: italic;
+    font-size: 120%;
+    margin-top: 2em;
+}
+#poem-author {
+    text-align: right;
+    font-style: normal;
+    font-size: 90%;
+}

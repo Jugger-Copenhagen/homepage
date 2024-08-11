@@ -1,4 +1,4 @@
-baseURL = 'https://jugger-copenhagen.github.io/homepage-testing/'
+baseURL = 'https://jugger-copenhagen.github.io/homepage-testing'
 languageCode = 'en-us'
 title = 'Jugger Copenhagen'
 relativeURLs = true
