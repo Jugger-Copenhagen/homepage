@@ -2,6 +2,12 @@
 
 ...
 
+## Homepage
+
+### TODO
+
+- Replace the skull icon with something of our own (rights). The file can be found in static/logos/
+
 ## To-Do
 
 [X] Implement a dynamic menu. It should link to the top-level sections.
