@@ -7,6 +7,10 @@
 ### TODO
 
 - Replace the skull icon with something of our own (rights). The file can be found in static/logos/
+- Make the image carousel interactive.
+- See if we can change the Google Calendar theme.
+- Set the article title and subtitle in the MD.
+- Write documentation on how to update elements on home page.
 
 ## To-Do
 
