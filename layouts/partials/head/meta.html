@@ -4,6 +4,7 @@
     {{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Page.Title }} | {{ .Site.Title }}{{ end }}
 </title>
 
+<script src="https://kit.fontawesome.com/d3715b0cef.js" crossorigin="anonymous"></script>
 <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js'></script>
 <script>
     document.addEventListener('DOMContentLoaded', function() {
@@ -12,5 +13,19 @@
         initialView: 'dayGridMonth'
         });
         calendar.render();
+    });
+</script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var bttID = document.getElementById("back-to-top");
+        var AppearAfterScroll = function() {
+        var y = window.scrollY;
+            if (y >= 700) {
+                bttID.className = "show-btt"
+            } else {
+                bttID.className = "hide-btt"
+            }
+        };
+        window.addEventListener("scroll", AppearAfterScroll);
     });
 </script>

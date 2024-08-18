@@ -50,12 +50,12 @@
     img {
         height: 300px;
         width: auto;
-        border: 1px solid #000;
+        border: 1px solid var(--skoll-charcoal);
         padding: 0.25em;
     }
 
-    img:hover {
-        background-color: #f0f0f0;
+    img:hover, img:has(:focus-visible) {
+        background-color: var(--skoll-yellow);
     }
 }
 

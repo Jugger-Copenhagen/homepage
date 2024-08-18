@@ -28,15 +28,15 @@
   --hamburger-gap: 6px;
   --foreground: var(--skoll-yellow);
   --background: var(--skoll-charcoal);
-  --animation-timing: 200ms ease-in-out;
+  --animation-timing: 200ms ease-out;
   --hamburger-height: calc(var(--bar-height) * 3 + var(--hamburger-gap) * 2);
 }
 
 .header_message {
-  font-weight: 400;
+  font-weight: 350;
 }
 #home_of_skøll_1 {
-  color: var(--skoll-blue);
+  color: var(--skoll-red);
 }
 #home_of_skøll_2 {
   color: var(--skoll-yellow);
@@ -45,7 +45,7 @@
   font-family: 'norsebold', sans-serif;
   font-size: 110%;
   letter-spacing: 1px;
-  color: var(--skoll-red);
+  color: var(--skoll-blue);
 }
 
 @keyframes slideaway {

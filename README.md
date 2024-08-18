@@ -10,7 +10,8 @@
 - Make the image carousel interactive.
 - Link the FullCalendar to our Google Calendar.
 - Write documentation on how to update elements on home page.
-- Add a "go to top" button / Footer
+- Automatically download and display pictures from a public Drive folder.
+- Check accessibility.
 
 ## Tournaments
 
