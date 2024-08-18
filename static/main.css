@@ -1,9 +1,76 @@
+@font-face {
+    font-family: 'norseregular';
+    src: url('fonts/norse-kawl-webfont.woff2') format('woff2'),
+         url('fonts/norse-kawl-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  
+  }
+  @font-face {
+    font-family: 'norsebold';
+    src: url('fonts/norsebold-2kge-webfont.woff2') format('woff2'),
+         url('fonts/norsebold-2kge-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  *, *::after, *::before {
+    box-sizing: border-box;
+  }
+
 :root {
-    --main-content-width: 1200px;
+    --main-content-width: 1500px;
+    --main-text-width: 900px;
+    --switch-width: 1200px;
+    --skoll-yellow: #fbf1d8;
+    --skoll-blue: #7ac3ce;
+    --skoll-red: #fd6384;
+    --skoll-charcoal: #272727;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 body {
     margin: 0 auto;
     font-family: system-ui, sans-serif;
     font-size: 18px;
+}
+
+.show-btt {
+    display: inline-flex;
+}
+.hide-btt {
+    display: none;
+}
+
+#back-to-top {
+    background-color: red;
+    position: fixed;
+    bottom: 2em;
+    right: 2em;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--skoll-blue);
+    width:40px;
+    height: 40px;
+    border-radius: 9999px;
+    transition: 200ms ease-out;
+    text-decoration: none;
+    
+    i {
+        font-size: 1em;
+        color: var(--skoll-charcoal);
+        transition: 200ms ease-out;
+    }
+}
+
+#back-to-top:hover {
+    background-color: var(--skoll-yellow);
+    color: var(--skoll-charcoal);
+
+    i {
+        transform: translateY(-0.15em);
+    }
 }

@@ -1,7 +1,8 @@
 ---
 title: Jugger Copenhagen
 params:
-    message: Probably the best sport in Denmark.
+    subtitle: Probably The Best Sport in Denmark
+    isHomepage: true
 description: This is the home page of the Jugger Copenhagen website.
 ---
 

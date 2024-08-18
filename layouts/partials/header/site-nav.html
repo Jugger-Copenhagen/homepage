@@ -1,10 +1,15 @@
-<nav>
-    <div class="header_message">
-        <span id="home_of_skøll_1">Home</span>
-        <span id="home_of_skøll_2">of</span>
-        <span id="home_of_skøll_3">SKØLL</span>
+<div class="nav-holder">
+    <div class="header_message" tabindex="0">
+        <a href="/">
+            <span id="home_of_skøll_1">Home</span>
+            <span id="home_of_skøll_2">of</span>
+            <span id="home_of_skøll_3">SKØLL</span>
+        </a>
     </div>
     <div class="menu">
+        <label class="hamburger-menu">
+            <input type="checkbox">
+        </label>
         <ul>
             <li><a href="/">Home</a></li>
             {{ range .Site.Sections }}
@@ -23,4 +28,4 @@
             {{ end }}
         </ul>
     </div>
-</nav>
+</div>

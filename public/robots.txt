@@ -1,37 +1,43 @@
 User-agent: *
 
-Disallow: /try/
+Disallow: /homepage-testing/faq/
 
-Disallow: /join/
+Disallow: /homepage-testing/try/
 
-Disallow: /news/
+Disallow: /homepage-testing/join/
 
-Disallow: /events/
+Disallow: /homepage-testing/news/
 
-Disallow: /club/
+Disallow: /homepage-testing/events/
 
-Disallow: /resources/
+Disallow: /homepage-testing/club/
 
-Disallow: /culture/
+Disallow: /homepage-testing/resources/
 
-Disallow: /contact/
+Disallow: /homepage-testing/culture/
 
-Disallow: /footer/friends/
+Disallow: /homepage-testing/contact/
 
-Disallow: /
+Disallow: /homepage-testing/footer/friends/
 
-Disallow: /footer/jugger/
+Disallow: /homepage-testing/
 
-Disallow: /footer/club/
+Disallow: /homepage-testing/footer/jugger/
 
-Disallow: /footer/
+Disallow: /homepage-testing/footer/club/
 
-Disallow: /culture/jersey-trading/
+Disallow: /homepage-testing/footer/
 
-Disallow: /news/welcome/
+Disallow: /homepage-testing/events/tournaments/fajt-2024/
 
-Disallow: /categories/
+Disallow: /homepage-testing/culture/jersey-trading/
 
-Disallow: /tags/
+Disallow: /homepage-testing/news/test-two/
+
+Disallow: /homepage-testing/news/welcome/
+
+Disallow: /homepage-testing/categories/
+
+Disallow: /homepage-testing/tags/
 
 
