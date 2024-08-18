@@ -8,16 +8,16 @@
 
 <!-- <hr> -->
 
-<div class="widegallery" id="highlights">
-    {{ $galDir := print "/gallery" }}
-    {{ range (readDir (print "/static" $galDir)) }}
-        {{- $imageurl := printf "%s/%s" $galDir .Name -}}
-        <div class="imgholder">
-            <a href="{{ $imageurl }}" target="_blank">
-                <img src="{{ $imageurl }}" alt="">
-            </a>   
-        </div>
-    {{ end }}
+<div class="widegallery" aria-label="Highlighted Photos">
+    {{- $galDir := print "/gallery" -}}
+    <div class="slider" id="img-slider-home">
+        {{- $count := 1 -}}
+        {{- range (readDir (print "/static" $galDir)) -}}
+            {{- $imageurl := printf "%s/%s" $galDir .Name -}}
+            <img src="{{ $imageurl }}" id="slide-{{ $count }}" alt="{{ .Name }}">
+            {{- $count = add $count 1 -}}
+        {{- end -}}
+    </div>
 </div>
 
 <!-- <hr> -->

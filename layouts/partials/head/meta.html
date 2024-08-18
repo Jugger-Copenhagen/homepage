@@ -7,6 +7,7 @@
 <script src="https://kit.fontawesome.com/d3715b0cef.js" crossorigin="anonymous"></script>
 <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js'></script>
 <script>
+    // This script initializes the FullCalendar plugin.
     document.addEventListener('DOMContentLoaded', function() {
         var calendarEl = document.getElementById('calendar');
         var calendar = new FullCalendar.Calendar(calendarEl, {
@@ -15,7 +16,9 @@
         calendar.render();
     });
 </script>
+
 <script>
+    // This script appears the back-to-top button when the user scrolls down 700 pixels.
     document.addEventListener('DOMContentLoaded', function() {
         var bttID = document.getElementById("back-to-top");
         var AppearAfterScroll = function() {
@@ -27,5 +30,12 @@
             }
         };
         window.addEventListener("scroll", AppearAfterScroll);
+    });
+</script>
+
+<script>
+    // This script will scroll the image slider to the right by 1000 pixels, showing the middle image if there are 5 images in the slider.
+    document.addEventListener('DOMContentLoaded', function() {
+        document.getElementById("img-slider-home").scrollLeft += 1000;
     });
 </script>

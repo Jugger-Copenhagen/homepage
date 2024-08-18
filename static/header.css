@@ -2,25 +2,7 @@
 
 /* The Norse font is made by Joel Carrouche and is licensed as freeware: https://www.fontspace.com/joel-carrouche */
 
-@font-face {
-  font-family: 'norseregular';
-  src: url('fonts/norse-kawl-webfont.woff2') format('woff2'),
-       url('fonts/norse-kawl-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
 
-}
-@font-face {
-  font-family: 'norsebold';
-  src: url('fonts/norsebold-2kge-webfont.woff2') format('woff2'),
-       url('fonts/norsebold-2kge-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
-*, *::after, *::before {
-  box-sizing: border-box;
-}
 
 :root {
   --bar-width: 30px;
@@ -176,15 +158,11 @@
   min-width: 15vh;
 
   img {
-    width: 100%;
+    max-width: 100%;
   }
 }
 
-
-.titleholder img {
-  max-width: 700px;
-}
-
+/* Alternate settings for small screens.  */
 @media screen and (min-width: 1200px) {
   .nav-holder {
     label {

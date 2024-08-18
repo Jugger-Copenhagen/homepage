@@ -1,11 +1,29 @@
+@font-face {
+    font-family: 'norseregular';
+    src: url('fonts/norse-kawl-webfont.woff2') format('woff2'),
+         url('fonts/norse-kawl-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  
+  }
+  @font-face {
+    font-family: 'norsebold';
+    src: url('fonts/norsebold-2kge-webfont.woff2') format('woff2'),
+         url('fonts/norsebold-2kge-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  *, *::after, *::before {
+    box-sizing: border-box;
+  }
+
 :root {
     --main-content-width: 1500px;
     --main-text-width: 900px;
     --switch-width: 1200px;
     --skoll-yellow: #fbf1d8;
-    /* --skoll-blue: #4394a8; */
     --skoll-blue: #7ac3ce;
-    /* --skoll-red: #b93842; */
     --skoll-red: #fd6384;
     --skoll-charcoal: #272727;
 }
