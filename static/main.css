@@ -1,6 +1,10 @@
 :root {
     --main-content-width: 1500px;
     --main-text-width: 900px;
+    --switch-width: 1200px;
+    --fc-button-bg-color: #4394a8;
+    --fc-button-border-color: #4394a8;
+    --fc-today-bg-color: #fbf1d8;
 }
 
 body {

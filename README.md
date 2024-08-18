@@ -8,20 +8,17 @@
 
 - Replace the skull icon with something of our own (rights). The file can be found in static/logos/
 - Make the image carousel interactive.
-- Change the Gcal for FullCalendar with Google Calendar linked.
-- Set the article title and subtitle in the MD.
-- Change the footer when responding to mobile.
+- Link the FullCalendar to our Google Calendar.
 - Write documentation on how to update elements on home page.
+- Add a "go to top" button / Footer
 
-## To-Do
+## Tournaments
 
-[X] Implement a dynamic menu. It should link to the top-level sections.
+### TODO
+
 [ ] Automatically populate the tournaments page based on event date and title. Create a shortcode to do this.
-[ ] Add a "go to top" button / Footer
  
 ## Hugo
-
-- Use "shortcodes" to implement Google calendar.
 
 Nothing is ever easy, so we already need some hacking to make Hugo (static asset URLs) work with GitHub pages. Now using the "relativeURLs" option for Hugo and providing the relative URL in each link.
 

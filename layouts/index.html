@@ -1,8 +1,8 @@
 {{ define "main"}}
 
 <div class="homeblock" id="welcome">
-    <h1 class="maintitle">Jugger Copenhagen</h1>
-    <h2 class="subtitle">Probably The Best Sport in Denmark</h2>
+    <h1 class="maintitle">{{ .Title }}</h1>
+    <h2 class="subtitle">{{ .Params.subtitle }}</h2>
     {{ .Content }}
 </div>
 
@@ -23,28 +23,25 @@
 <!-- <hr> -->
 
 <div class="homeblock contentrow" id="newsandevents">
-    <div>
-        <div id="news">
-            <h1>News</h1>
-            <ul>
-                {{ range (where .Site.RegularPages "Type" "news" ) | first 20 }}
-                <a href="{{ .Permalink }}">
-                    <li>
-                        {{ .Date.Format "2 January 2006" }} &mdash; {{ .Title }}
-                    </li>
-                </a>
-                {{ end }}
-            </ul>
-        </div>
+    <div id="news">
+        <h1>News</h1>
+        <ul>
+            {{ range (where .Site.RegularPages "Type" "news" ) | first 20 }}
+            <a href="{{ .Permalink }}">
+                <li>
+                    {{ .Date.Format "2 January 2006" }} &mdash; {{ .Title }}
+                </li>
+            </a>
+            {{ end }}
+        </ul>
     </div>
-    <div>
-        <div id="gcal">
+        <!-- <div id="gcal">
             <h1>Events</h1>
             <iframe
                 src="https://calendar.google.com/calendar/embed?height=500&wkst=1&ctz=Europe%2FCopenhagen&bgcolor=%23ffffff&src=anVnZ2VyY29wZW5oYWdlbkBnbWFpbC5jb20&color=%234285F4" style="border:solid 1px #777" width="100%" height="500px" frameborder="0" scrolling="no">
             </iframe>
-        </div>
-    </div>
+        </div> -->
+    <div id="calendar"></div>
 
 </div>
 
