@@ -1,5 +1,6 @@
 :root {
-    --main-content-width: 1200px;
+    --main-content-width: 1500px;
+    --main-text-width: 900px;
 }
 
 body {

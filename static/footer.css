@@ -2,7 +2,7 @@ footer {
     background: #272727;
     color: #fff;
     text-align: center;
-    font-size: 90%;
+    font-size: 100%;
   }
 
   #copyright {
@@ -10,12 +10,13 @@ footer {
   }
 
   .footerholder {
-    display: flex;
-    flex-direction: row;
-    gap: 6em;
-    max-width: fit-content;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10vw;
+    max-width: var(--main-text-width);
+    padding-inline: 3em;
+    padding-block: 2em;
     margin: 0 auto;
-    padding: 1em;
   }
 
   .footerholder div {
