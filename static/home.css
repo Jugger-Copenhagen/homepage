@@ -81,6 +81,15 @@
     }
 }
 
+#calendar {
+    --fc-today-bg-color: var(--skoll-yellow);
+    --fc-button-bg-color: var(--skoll-blue);
+    --fc-button-text-color: var(--skoll-charcoal);
+    --fc-button-border-color: var(--skoll-charcoal);
+    --fc-button-hover-bg-color: var(--skoll-yellow);
+    --fc-button-hover-border-color: var(--skoll-charcoal);
+}
+
 @media screen and (max-width: 1200px) {
     #newsandevents {
         grid-template-columns: 1fr;

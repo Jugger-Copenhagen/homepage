@@ -2,9 +2,10 @@
     --main-content-width: 1500px;
     --main-text-width: 900px;
     --switch-width: 1200px;
-    --fc-button-bg-color: #4394a8;
-    --fc-button-border-color: #4394a8;
-    --fc-today-bg-color: #fbf1d8;
+    --skoll-yellow: #fbf1d8;
+    --skoll-blue: #4394a8;
+    --skoll-red: #b93842;
+    --skoll-charcoal: #272727;
 }
 
 body {

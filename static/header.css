@@ -23,26 +23,29 @@
 }
 
 :root {
-  --bar-width: 40px;
+  --bar-width: 30px;
   --bar-height: 4px;
   --hamburger-gap: 6px;
-  --foreground: #fff;
-  --background: #272727;
+  --foreground: var(--skoll-yellow);
+  --background: var(--skoll-charcoal);
   --animation-timing: 200ms ease-in-out;
   --hamburger-height: calc(var(--bar-height) * 3 + var(--hamburger-gap) * 2);
 }
 
+.header_message {
+  font-weight: 400;
+}
 #home_of_skøll_1 {
-  color: #4394a8;
+  color: var(--skoll-blue);
 }
 #home_of_skøll_2 {
-  color: #e5dabf;
+  color: var(--skoll-yellow);
 }
 #home_of_skøll_3 {
   font-family: 'norsebold', sans-serif;
   font-size: 110%;
   letter-spacing: 1px;
-  color: #b93842;
+  color: var(--skoll-red);
 }
 
 @keyframes slideaway {
@@ -75,7 +78,7 @@
     }
 
     a:hover {
-      color: #e5dabf;
+      color: var(--skoll-yellow);
     }
   }
   
