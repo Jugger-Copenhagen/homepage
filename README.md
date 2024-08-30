@@ -79,3 +79,12 @@ Nothing is ever easy, so we already need some hacking to make Hugo (static asset
 ### Hugo resources
 
 - [Hugo SEO Best Practices](https://cloudcannon.com/tutorials/hugo-seo-best-practices/)
+
+# How to install and run
+
+install hugo -> https://gohugo.io/installation/macos/
+ (e.g., `$ brew install hugo`)
+
+build with hugo -> `$ hugo`
+
+test run -> `$ hugo server`

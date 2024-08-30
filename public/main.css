@@ -1,9 +1,0 @@
-:root {
-    --main-content-width: 1200px;
-}
-
-body {
-    margin: 0 auto;
-    font-family: system-ui, sans-serif;
-    font-size: 18px;
-}
