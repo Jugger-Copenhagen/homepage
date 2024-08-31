@@ -3,7 +3,7 @@ title: "Official Club Information"
 weight: 98
 header_menu_title: "Club Official"
 navigation_menu_title: "Official Documents"
-header_menu: true
+header_menu: false
 detailed_page_path: /official/
 detailed_page_homepage_content: true
 ---
