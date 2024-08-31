@@ -6,7 +6,7 @@ weight: 2
 header_menu: true
 ---
 
-Jugger is a relatively new sport, so very few players who join us have previous experience. We are excited to teach you. 🧑🏽‍🏫 We play every Saturday near Trianglen Metro Station; the calendar below has times and map points. Have a peek at photos on [Instagram](https://www.instagram.com/juggercph/) or videos on [YouTube](https://www.youtube.com/JuggerCopenhagen/)!
+Jugger is a relatively new sport, so very few players who join us have previous experience. We are excited to teach you. 🧑🏽‍🏫 We play every Saturday near Trianglen Metro Station; the calendar below has times and map points. Have a peek at photos on [Instagram](https://www.instagram.com/juggercph/) or videos on [YouTube](https://www.youtube.com/@JuggerCopenhagen/)!
 
 ![dodging a chain in jugger: this could be you!](images/chainclash.jpg)
 
