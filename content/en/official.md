@@ -11,3 +11,5 @@ Our club is a Folkeoplysende Forening in Københavns Kommune, and a member of DG
 * Jim Wang (auditor)
 
 Our players and those who visit us are bound by our [Code of Conduct](https://docs.google.com/document/d/1Z_ZWrU9rb1hDyrfI6IjGW24BFYPfaNhS7D3A-cSOaco/edit), and our organization is run according to [our constitution](https://docs.google.com/document/d/13gHCvyobzfLGX1JKa7vSJnOykByL8NtlArcgXXLmaQA/edit?usp=sharing).
+
+![talking about jugger, probably](/images/walkandtalk.jpg)

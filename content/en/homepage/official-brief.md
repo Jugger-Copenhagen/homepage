@@ -12,3 +12,5 @@ Our club is a Folkeoplysende Forening in Københavns Kommune, and a member of DG
 ![the 2024 Jugger Copenhagen board](/images/board.png)
 
 See [our official info page](official) for more info and official documents.
+
+Also possibly of interest, we are currently migrating this website [from Notion](https://juggercph.notion.site/Jugger-Copenhagen-35038b95f769404ab41dd3816813577f), where you can probably find additional secret details if you want to go hunting!

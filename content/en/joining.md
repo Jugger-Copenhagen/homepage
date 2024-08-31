@@ -29,6 +29,10 @@ Membership is payable on the first day of the quarter (Jan 1, Apr 1, Jul 1, Oct 
 Include your name in the transfer text, so that we can tell who has paid!
 This makes it a lot easier to keep our membership list up to date 🙂
 
+![welcome to jugger!](/images/hug2.jpg)
+
+----
+
 ## Membership FAQ
 
 ### ❓Do you take MobilePay / Betalingservice?
@@ -47,7 +51,9 @@ Members can:
 
 - come to our regular weekly practices;
 - access our internal Signal group, where we share training photos and discuss upcoming events, decisions, and other things of interest to the club;
+- attend tournaments as part of the club's teams;
 - participate in our Annual General Meeting, Holiday Party, and other private events;
+- get {{< skøll darkblue >}} merch;
 - volunteer to help maintain equipment, organise events, and keep the club running;
 - run for our Board of Directors.
 

@@ -1,33 +1,40 @@
 :root {
 
+    /* === Skøll Stuff === */
+    ---skøll-charcoal: #29221F;
+    ---skøll-yellow: #FCF7C6;
+    ---skøll-red: #EF3B4F;
+    ---skøll-brightblue: #20BCBA;
+    ---skøll-darkblue: #14747d;
+
     /* === Cover / Landing area === */
-    --cover-text-color: #b93842;
+    --cover-text-color: var(---skøll-red);
     /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-    --highlight: #e5dabf;
+    --highlight: var(---skøll-yellow);
     --highlight-contrast: var(--cover-text-color);
     /*inverse colors used for :hover */
     --highlight-inverse: var(--cover-text-color);
-    --highlight-inverse-contrast: white;
+    --highlight-inverse-contrast: var(---skøll-brightblue);
 
     /* visual guard around title and description, when the feature is enabled */
     --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 255);
-    --cover-title-text-shadow: #e5dabf 0px 0px 20px;
+    --cover-title-text-shadow: var(---skøll-yellow) 0px 0px 20px;
 
 
     /* === sticky top/left navigation menus === */
-    --sticky-menu-text-color: #4394a8;
+    --sticky-menu-text-color: var(---skøll-darkblue);
 
 
     /* === Alternating content (post) sections  === */
     /* Light section - text color */
-    --section-light-text-color: #3a4145;
+    --section-light-text-color: var(---skøll-charcoal);
     /* Light section - background color */
-    --section-light-bg-color: #e5dabf;
+    --section-light-bg-color: var(---skøll-yellow);
 
     /* Dark section - text color */
     --section-dark-text-color: var(--section-light-bg-color);
     /* Dark section - background color */
-    --section-dark-bg-color: #4394a8;
+    --section-dark-bg-color: var(---skøll-darkblue);
 
     /* Light&Dark section >quote. Suppressive color, compared to 'Light section - text color'*/
     --section-uni-quote: grey;

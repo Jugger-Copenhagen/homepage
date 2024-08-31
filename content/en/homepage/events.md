@@ -2,7 +2,7 @@
 title: "Events with Jugger Copenhagen"
 header_menu_title: "Events"
 navigation_menu_title: "Events"
-weight: 15
+weight: 45
 header_menu: true
 ---
 
