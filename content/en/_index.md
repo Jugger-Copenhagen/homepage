@@ -1,6 +1,6 @@
 ---
 # Striking header background image, Ideal images are homogenous around the centre and contrasting to the text. Non-ideal images can use `title_guard`
-header_image: "/images/runin.jpg"
+header_image: "images/runin.jpg"
 title_guard: true
 #
 # When set true, uses video from custom_header_video.html partial, instead of header_image
