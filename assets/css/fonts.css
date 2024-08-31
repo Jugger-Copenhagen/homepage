@@ -328,17 +328,17 @@
 }
 
 @font-face {
-  font-family: 'norseregular';
+  font-family: 'norse';
   src: url('fonts/norse-kawl-webfont.woff2') format('woff2'),
        url('fonts/norse-kawl-webfont.woff') format('woff');
-  font-weight: normal;
+  font-weight: 400;
   font-style: normal;
 
 }
 @font-face {
-  font-family: 'norsebold';
+  font-family: 'norse';
   src: url('fonts/norsebold-2kge-webfont.woff2') format('woff2'),
        url('fonts/norsebold-2kge-webfont.woff') format('woff');
-  font-weight: normal;
+  font-weight: 700;
   font-style: normal;
 }
