@@ -19,3 +19,6 @@ See [joining the club](joining) for details on joining.
 ### Training with us
 We practice every week in Copenhagen. Check out our Google calendar for more info:
 {{< gcal >}}
+
+### Traveling with us
+We also regularly travel as {{ skøll red }} to tournaments in Germany, Sweden, and elsewhere. Check out [some of our travel plans](https://juggercph.notion.site/Tournament-Plans-b9adb6d7f64d43b1ad6695d043619718), [sign up to come along](https://forms.gle/2Q4bj4hBneLnrxtBA), and don't forget to [order a jersey](https://tinyurl.com/skolljersey)!
