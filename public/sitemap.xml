@@ -6,10 +6,14 @@
   </url><url>
     <loc>http://localhost:1313/resources/</loc>
   </url><url>
+    <loc>http://localhost:1313/tournaments/2024pbj/</loc>
+  </url><url>
     <loc>http://localhost:1313/license/</loc>
   </url><url>
     <loc>http://localhost:1313/joining/</loc>
   </url><url>
     <loc>http://localhost:1313/official/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tournaments/</loc>
   </url>
 </urlset>
