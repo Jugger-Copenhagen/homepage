@@ -56,3 +56,5 @@ For off the field:
 * tent, sleeping bag, and sleeping mat (as required)
 * sleep mask and earplugs (as desired)
 * medications (as required)
+
+![hugging the other teams after the match](/images/hug.webp)
