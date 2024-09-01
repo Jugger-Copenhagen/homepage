@@ -1,0 +1,26 @@
+{{ define "main" }}
+  <main class="content page-template page-{{ .Slug }}">
+    <article class="post page">
+      <header class="post-header">
+        {{ with .Parent }}
+        <a id="back-to-tournaments" href="/tournaments"><i class="fa fa-chevron-left" aria-hidden="true"></i>Back to Tournament List</a>
+        {{ end }}
+      </header>
+      <h1 class="post-title">{{ .Title }} ({{ .Params.Location }})</h1>
+      {{ with .Params.Begin }}
+        {{ $dateMachine := . | time.Format "2006-01-02T15:04:05-07:00" }}
+        {{ $dateHuman := . | time.Format ":date_short" }}
+        <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time> &ndash;
+        {{ end }}
+        {{ with .Params.End }}
+        {{ $dateMachine := . | time.Format "2006-01-02T15:04:05-07:00" }}
+        {{ $dateHuman := . | time.Format ":date_short" }}
+        <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+      {{ end }}
+      <section class="post-content">
+        More information is available at <a href="{{ .Params.Infolink }}">the official site</a>. We expect to play on a {{ .Params.Pitch }} pitch.
+        {{ .Content }}
+      </section>
+    </article>
+  </main>
+{{ end }}

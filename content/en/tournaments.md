@@ -7,6 +7,7 @@ See our [current and past tournament signups on Turniere](https://turniere.jugge
 
 ## 2025
 We're still planning our 2025 tournament list 📆 Stay tuned!
+{{< tournamentlist >}}
 
 ---
 ## 2024 and earlier

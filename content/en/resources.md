@@ -1,3 +1,7 @@
+---
+title: Training Resources
+---
+
 This page contains a collection of various resources that help you learn and play Jugger, participate in and organize tournaments, and involve yourself with Jugger culture. We have a few topics:
 
 1. [An introduction to Jugger]({{< ref "/resources#jugger-101" >}})
