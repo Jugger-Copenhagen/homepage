@@ -28,4 +28,4 @@ By hanging out with us, you agree that you’ll abide by these guidelines. Looki
 
 * Our club leadership is Valkyrie, Martin, Evan, Jim, Karel and Luca. We are in charge in that order, and the most senior person from the list is empowered to make/enforce any necessary decisions on or off the field.
 
-![talking about jugger, probably](/images/walkandtalk.jpg)
+![talking about jugger, probably](/images/walkandtalk.webp)
