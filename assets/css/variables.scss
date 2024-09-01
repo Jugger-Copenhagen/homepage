@@ -10,11 +10,11 @@
     /* === Cover / Landing area === */
     --cover-text-color: var(---skøll-yellow);
     /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-    --highlight: var(---skøll-red);
+    --highlight: var(---skøll-darkblue);
     --highlight-contrast: var(--cover-text-color);
     /*inverse colors used for :hover */
     --highlight-inverse: var(--cover-text-color);
-    --highlight-inverse-contrast: var(---skøll-red);
+    --highlight-inverse-contrast: var(---skøll-darkblue);
 
     /* visual guard around title and description, when the feature is enabled */
     --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 255);
