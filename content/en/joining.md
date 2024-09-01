@@ -5,7 +5,7 @@ title: "Joining the club"
 Jugger is a relatively new sport, so very few players who join us have previous experience. We are excited to teach you. 🧑🏽‍🏫 We play every Saturday near Trianglen Metro Station; the calendar below has times and map points. Have a peek at photos on [Instagram](https://www.instagram.com/juggercph/) or videos on [YouTube](https://www.youtube.com/@JuggerCopenhagen/)!
 
 You can try jugger out for 2 practices free of charge before deciding if you want to join. We keep our Google calendar up-to-date with our training plans:
-{{gcal}}
+{{< gcal >}}
 
 ---
 
@@ -30,7 +30,7 @@ Membership is payable on the first day of the quarter (Jan 1, Apr 1, Jul 1, Oct 
 Include your name in the transfer text, so that we can tell who has paid!
 This makes it a lot easier to keep our membership list up to date 🙂
 
-![welcome to jugger!](/images/hug2.jpg)
+![welcome to jugger!](/images/hug2.webp)
 
 ----
 

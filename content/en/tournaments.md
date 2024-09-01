@@ -12,7 +12,7 @@ We're still planning our 2025 tournament list 📆 Stay tuned!
 ## 2024 and earlier
 See our slideshows from [2024](https://docs.google.com/presentation/d/1g816zuHbUddpkBhVUjT8g6rc5lEQ-qgtcQndeMBZ97E/edit?usp=sharing) and [2023](https://docs.google.com/presentation/d/1VBA__c0dFqcb1uy2uRCcCFGVKEw3fcjWJItP1iG1KZE/edit#slide=id.p) for flavour info, and our old [Notion pages](https://juggercph.notion.site/Tournament-Plans-b9adb6d7f64d43b1ad6695d043619718) for logistics and details.
 
-![skøll warming up on the beach in Rostock](/images/beach.jpeg)
+![skøll warming up on the beach in Rostock](/images/beach.webp)
 ## How we travel
 
 ### Who gets to be on the team?

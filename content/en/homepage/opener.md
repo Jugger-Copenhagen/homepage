@@ -9,4 +9,4 @@ Want to know more? [Jugger in 45 Seconds](https://www.youtube.com/watch?v=H5KGov
 
 Jugger Copenhagen is Denmark’s first official jugger club! The club started in the winter of 2017-18 when our very first set of equipment got built in the kantine at Unity. After a few years of playing and a global pandemic, we were officially founded as a folkeoplysende forening on January 29, 2022. We now play weekly together in downtown Copenhagen, and our traveling team, {{<skøll>}}, regularly visits other countries for tournaments and trainings—especially Germany and Sweden. We look forward to seeing you on the pitch!
 
-![Be as cool as these people](images/stylish2.jpg)
+![Be as cool as these people](/images/stylish2.webp)

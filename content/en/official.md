@@ -31,4 +31,4 @@ By hanging out with us, you agree that you’ll abide by these guidelines. Looki
 
 
 
-![talking about jugger, probably](/images/walkandtalk.jpg)
+![talking about jugger, probably](/images/walkandtalk.webp)

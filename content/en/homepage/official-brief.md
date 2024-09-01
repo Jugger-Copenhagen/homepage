@@ -9,7 +9,7 @@ detailed_page_homepage_content: true
 ---
 Our club is a Folkeoplysende Forening in Københavns Kommune, and a member of DGI. We are headed by a board of 5 and an auditor.
 
-![the 2024 Jugger Copenhagen board](/images/board.png)
+![the 2024 Jugger Copenhagen board](/images/board.webp)
 
 See [our official info page](official) for more info and official documents.
 
