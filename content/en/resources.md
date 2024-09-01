@@ -40,10 +40,6 @@ Epic videography, not a lot of explanation. Plenty of inspiration for things you
 
 ## Games and Highlights
 
-{{< youtube QHKyepF0Tzc >}}
-
-### Jugger YouTube channels
-
 - [Jugger Copenhagen's own Youtube Channel](https://www.youtube.com/@JuggerCopenhagen) - Check out our team's matches from various tournaments in the past
 - [JuggerTube](https://www.youtube.com/@WatchJUGGER) - Huge selection of German jugger matches with light editing
 - [PlayJugger](https://www.youtube.com/@PlayJugger) - Huge selection of Spanish jugger matches with nice editing
@@ -52,7 +48,7 @@ Epic videography, not a lot of explanation. Plenty of inspiration for things you
 
 ## Tools and Rules
 
-- [German rule books](https://www.jugger.org/downloads) (the latest 🇬🇧 translation can be found [here](https://docs.google.com/document/d/1B77ufGU5-koR5nv8_aQ7Ts92PIj90dc8tjCpHA62xm8). It's not “officially sanctioned” but done by us and what we use) - we play by the German ruleset.
+- [German rule books](https://www.jugger.org/downloads) (we play by [our own 🇬🇧 translation](https://docs.google.com/document/d/1B77ufGU5-koR5nv8_aQ7Ts92PIj90dc8tjCpHA62xm8)) - we play by the German ruleset.
 
 ### Jugger Trainer (Android/Web)
 
