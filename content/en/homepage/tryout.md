@@ -13,6 +13,8 @@ Jugger is a relatively new sport, so very few players who join us have previous 
 ### Want to try it out?
 New players are always welcome! When you join us for the first time, please arrive 15 minutes early and [contact us](/#contact) two days beforehand ; we’ll get you up to speed. 😊 You are welcome to attend two practices free of charge before deciding if you want to join. Wear sporty clothes (sneakers if inside, sneakers or plastic cleats if outside, a t-shirt, and shorts; kneepads are also nice) and bring water, we do the rest!
 
+{{<svg chase>}}
+
 ### Ready to join?
 See [joining the club](joining) for details on joining.
 
