@@ -8,6 +8,18 @@ Based on Hugo.
 - Style Google Calendar plugin to match remaining pages, possibly using FullCalendar framework.
 - Danish language support.
 
+### Calendar
+
+The non-Google fancy calendar is made with [FullCalendar](https://fullcalendar.io), an almost plug-and-play JS plugin. The calendar is implemented as the {{< calendar >}} shortcode that inserts the required HTML etc. The JS plugin is loaded in custom_head.html. Configuration options for the calendar are specified in the JavaScript code in the shortcode.
+
+#### Linking the calendar to our GCal content
+
+This needs to be done by someone with access the the Google Calendar. For instructions, see: [Add Google Calendar Events](https://fullcalendar.io/docs/google-calendar)
+
+#### Styling
+
+By default the calendar matches the theme relatively well, but to further improve it you can adjust the JS options or write custom CSS properties: [CSS Customization](https://fullcalendar.io/docs/css-customization)
+
 ## Styling
 
 Most of the styling is provided by the hugo-scroll theme that is embedded as a github subrepository. However, we do a few custom styling things, which are visible in assets/css:
