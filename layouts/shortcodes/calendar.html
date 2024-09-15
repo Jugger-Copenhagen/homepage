@@ -1,0 +1,13 @@
+<div id="calendar">
+    <script>
+        // This script initializes the FullCalendar plugin.
+        document.addEventListener('DOMContentLoaded', function() {
+            var calendarEl = document.getElementById('calendar');
+            var calendar = new FullCalendar.Calendar(calendarEl, {
+            initialView: 'dayGridMonth',
+            contentHeight: 'auto',
+            });
+            calendar.render();
+        });
+    </script>
+</div>

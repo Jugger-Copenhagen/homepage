@@ -20,7 +20,10 @@ See [joining the club](joining) for details on joining.
 
 ### Training with us
 We practice every week in Copenhagen. Check out our Google calendar for more info:
-{{< gcal >}}
+
+{{< calendar >}}
+
+And some more text.
 
 ### Traveling with us
 We also regularly travel as {{<skøll>}} to tournaments in Germany, Sweden, and elsewhere. Check out [some of our upcoming and past travel plans](tournaments) and get more info on how this works. 
