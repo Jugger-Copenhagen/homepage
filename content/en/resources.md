@@ -4,7 +4,7 @@ title: Training Resources
 
 This page contains a collection of various resources that help you learn and play Jugger, participate in and organize tournaments, and involve yourself with Jugger culture. We have a few topics:
 
-1. [An introduction to Jugger]({{< ref "/resources#jugger-101" >}})
+1. [An introduction to Jugger]({{< ref "/resources#introductions-to-jugger" >}})
 2. [Tournaments and Clubs]({{< ref "/resources#tournaments-and-clubs" >}})
 3. [Tutorials and Tips]({{< ref "/resources#tutorials-and-tips" >}})
 4. [Games and Highlights]({{< ref "/resources#games-and-highlights" >}})
@@ -48,11 +48,12 @@ Epic videography, not a lot of explanation. Plenty of inspiration for things you
 
 ## Tools and Rules
 
-- [German rule books](https://www.jugger.org/downloads) (we play by [our own 🇬🇧 translation](https://docs.google.com/document/d/1B77ufGU5-koR5nv8_aQ7Ts92PIj90dc8tjCpHA62xm8)) - we play by the German ruleset.
+- [German rule books](https://www.jugger.org/downloads) - we play by [our own 🇬🇧 translation](https://docs.google.com/document/d/1B77ufGU5-koR5nv8_aQ7Ts92PIj90dc8tjCpHA62xm8) of the German ruleset.
+- [Strategy cards](/files/jugger_strategy_deck-2sided.pdf) - we developed a printable PDF of cards with different run-in strategies. We use these in training to inspire us to try new formations.
 
 ### Jugger Trainer (Android/Web)
 
-Jugger Trainer, available as an [Android app](https://apkpure.com/jugger-trainer/net.savageinter.juggertrainer) (although no longer in the Google Play Store) or as a [web app](https://jugger-copenhagen.github.io/jugger-trainer-web/) provides a variety of training activities.
+Jugger Trainer, available as an [Android app](https://apkpure.com/jugger-trainer/net.savageinter.juggertrainer) (although no longer in the Google Play Store) or as a [web app](https://jugger-copenhagen.github.io/jugger-trainer-web/) provides a searchable and sortable database of various training activities.
 
 ### Jugger Stones+ (Android)
 
