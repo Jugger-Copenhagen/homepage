@@ -4,8 +4,10 @@
         document.addEventListener('DOMContentLoaded', function() {
             var calendarEl = document.getElementById('calendar');
             var calendar = new FullCalendar.Calendar(calendarEl, {
-            initialView: 'dayGridMonth',
-            contentHeight: 'auto',
+                googleCalendarApiKey: 'AIzaSyDQEze25EPXJQgPDaZctL2VQCgq2pWg76Y',
+                events: 'juggercopenhagen@gmail.com',
+                initialView: 'dayGridMonth',
+                contentHeight: 'auto',
             });
             calendar.render();
         });
