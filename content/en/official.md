@@ -12,7 +12,7 @@ The club started in the winter of 2017-18 when our very first set of equipment g
 
 As a forening, the club’s highest authority is the General Assembly. This is where you, the members, propose, discuss, and vote on various issues. These issues are often presented by the board, who receive the GA’s mandate to run the club’s day-to-day organization.
 
-Our players and those who visit us are bound by our [Code of Conduct](https://docs.google.com/document/d/1Z_ZWrU9rb1hDyrfI6IjGW24BFYPfaNhS7D3A-cSOaco/edit), and our organization is run according to [our constitution](https://docs.google.com/document/d/13gHCvyobzfLGX1JKa7vSJnOykByL8NtlArcgXXLmaQA/edit?usp=sharing).
+Our players and those who visit us are bound by our Code of Conduct (below), and our organization is run according to [our constitution](https://docs.google.com/document/d/13gHCvyobzfLGX1JKa7vSJnOykByL8NtlArcgXXLmaQA/edit?usp=sharing).
 
 {{< svg pin >}}
 
@@ -28,14 +28,13 @@ Our club requires a lot of work to run! We currently rely on a few groups of vol
 ## Code of Conduct
 We are a diverse group of people who are interested in having a good time. Here are some things about how we play:
 
-* we have fun!
-* we welcome people of all nationalities, gender identities and expressions, religions, sexual orientations, abilities, etc., but not assholes
-* we hit gently (you’ll soon find this is more effective than hard swings, anyway)
-* if there’s a problem we can’t solve ourselves on the field, we talk it over with the club leadership* as soon as possible, who have the final say
+* We want everyone to have fun!
+* We welcome and respect people of all nationalities, gender identities and expressions, religions, sexual orientations, abilities, etc.
+* We stand up for each other against aggressive, dangerous, or disrespectful behavior.
+* We play in a controlled manner.  
+* We resolve problems through open discussion.
+* All members agree to abide by these guidelines. Failure to comply with the code of conduct may lead to membership being suspended temporarily or indefinitely.
 
-By hanging out with us, you agree that you’ll abide by these guidelines. Looking forward to seeing you on the pitch!
-
-
-* Our club leadership is Valkyrie, Martin, Evan, Jim, Karel and Luca. We are in charge in that order, and the most senior person from the list is empowered to make/enforce any necessary decisions on or off the field.
+Any board member or member of the trainer team is empowered to resolve disagreements and enforce the code of conduct on or off the field.
 
 ![talking about jugger, probably](/images/walkandtalk.webp)
