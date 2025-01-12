@@ -1,5 +1,5 @@
 ---
-title: "Være med!ß"
+title: "Være med!"
 header_menu_title: "Være med!"
 navigation_menu_title: "Være med!"
 weight: 2
