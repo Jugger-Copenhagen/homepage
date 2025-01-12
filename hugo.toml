@@ -46,7 +46,7 @@ enableEmoji = true
     description = "Copenhagen's First Jugger Club"
 
     # Show a menu of languages available
-    language_menu = false
+    language_menu = true
 
     # Show also a language menu item for the current language, if false only
     # show the remaining languages
@@ -74,7 +74,7 @@ enableEmoji = true
     showFooterLinks = false
 
     [params.meta]
-        keywords = "jugger,sports,rolespil,nerds,pompfen,fitness,copenhagen,forening"
+        keywords = "jugger,sports,rollespil,nerds,pompfen,fitness,copenhagen,forening,sport,danmark,denmark,niche sport,unusual sport"
 
     [[params.contacts]]
         label = "email"
@@ -99,4 +99,14 @@ enableEmoji = true
   [languages.en]
     weight = 10
     languageName = "English"
+    languageCode = "en-US"
     contentDir = "content/en"
+    title = "Jugger Copenhagen - Copenhagen's First Jugger Club"
+    description = "Copenhagen's First Jugger Club"
+  [languages.dk]
+    weight = 10
+    languageName = "Dansk"
+    languageCode = "da-DK"
+    contentDir = "content/dk"
+    title = "Jugger Copenhagen - Københavns første jugger club"
+    description = "Københavns første jugger club"
