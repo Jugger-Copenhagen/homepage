@@ -6,22 +6,22 @@ weight: 2
 header_menu: true
 ---
 
-Jugger is a relatively new sport, so very few players who join us have previous experience. We are excited to teach you. 🧑🏽‍🏫 We play every Saturday near Trianglen Metro Station; the calendar below has times and map points. Have a peek at photos on [Instagram](https://www.instagram.com/juggercph/) or videos on [YouTube](https://www.youtube.com/@JuggerCopenhagen/)!
+Jugger er relativt nyt som sport, så nye medlemmer kommer uden erfaring. Vi glæder os til at træne jer. 🧑🏽‍🏫 Vi træner på lørdage i nærheden af Trianglen Metro/Fæelledparken. Tidspunkter og detaljer står på kalenderen. Du kan godt kig på fotos på [Instagram](https://www.instagram.com/juggercph/) eller videos på [YouTube](https://www.youtube.com/@JuggerCopenhagen/) for at lære mere.
 
-![dodging a chain in jugger: this could be you!](/images/chainclash.webp)
+![du kunne godt undvige den skummekette!](/images/chainclash.webp)
 
-### Want to try it out?
-New players are always welcome! When you join us for the first time, please arrive 15 minutes early and [contact us](/#contact) two days beforehand ; we’ll get you up to speed. 😊 You are welcome to attend two practices free of charge before deciding if you want to join. Wear sporty clothes (sneakers if inside, sneakers or plastic cleats if outside, a t-shirt, and shorts; kneepads are also nice) and bring water, we do the rest!
+### Vil du så gerne prøve det?
+Vi velkomner altid nye spillere og medlemmer. Når du kommer første gang, er det vigtigt at komme 15 minuter tidligt og at [fortæl os](/#contact) 2 dage føre. Vi kan så lære du reglerne og give nogle tips. 😊 Du må gerne prøve 2 gange føre du decidere, hvis du vil være med som medlem. Alle spillere skal have tøj, som er godt til sport (t-shirt, shorts, og sneakers hvis vi er indendors, sneakers eller klamper sko hvis vi er udendors; evt. knæbeskyttere), og vand. Vi har alt andet!
 
 {{<svg chase>}}
 
-### Ready to join?
-See [joining the club](joining) for details on joining.
+### Vil du gerne være med?
+Sammenføjningsdetaljerne står på [ind i klubben](joining).
 
-### Training with us
-We practice every week in Copenhagen. Check out our Google calendar for more info:
+### Vores træningstider
+Vi træner hver uge i København. Du kan se mere detaljer på vores kalender:
 
 {{< calendar >}}
 
-### Traveling with us
-We also regularly travel as {{<skøll>}} to tournaments in Germany, Sweden, and elsewhere. Check out [some of our upcoming and past travel plans](tournaments) and get more info on how this works. 
+### Vores rejser
+Vi rejser sammen som {{<skøll>}} til konkurrencer i Tyskland, Sverige, og andre land. Du kan se [vores planer](tournaments) for at lære mere om det.
