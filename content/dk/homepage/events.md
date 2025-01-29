@@ -6,6 +6,6 @@ weight: 45
 header_menu: true
 ---
 
-In addition to trainings, our club also runs polterabends, birthdays, and team-building activities. These events for 8-30 people can be a fun way to laugh together and enjoy the sunshine in Copenhagen. [Get in touch with us](/#contact) about rates and availability.
+Udover træninger afholder vores klub også polterabender, fødselsdage og aktiviteter til teambuilding. Ved grupper af 8-30 personer kan det være en sjov måde at grine sammen og nyde solskinnet i København. [Kontakt os](/#contact) for priser og tilgængelighed.
 
-![a crowd gathered at the first Danish jugger tournament: PB&J 2024](/images/crowd.webp)
+![publikum ved den første danske juggerturnering: PB&J 2024](/images/crowd.webp)
