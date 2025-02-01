@@ -11,7 +11,7 @@ Jugger er en relativ ny sport, så nye spillere kommer som regel uden erfaring. 
 ![du kunne godt have undveget den _chain_!](/images/chainclash.webp)
 
 ### Vil du prøve?
-Nye spillere og medlemmer er altid velkomne. Når du kommer første gang, er det vigtigt at du er der 15 minuter før træningen begynder, og at [fortæller os](/#contact) at du kommer, to dage i førvejen. Vi lærer dig reglerne og giver nogle tips så du hurtigt kan komme i gang. 😊 Du kan være med til træning to gange, før du beslutter, om du vil melde fig ind i klubben. Alle spillere skal have tøj på, som er passende til at dyrke sport (t-shirt, shorts, gummisko hvis vi er indendørs, eller gummisko eller fodboldstøvler hvis vi er udendørs. Knæbeskyttere kan også være gode at have), og vand. Vi har alt andet!
+Nye spillere og medlemmer er altid velkomne. Når du kommer første gang, er det vigtigt at du er der 15 minuter før træningen begynder, og at [fortæller os](/#contact) at du kommer, to dage i førvejen. Vi lærer dig reglerne og giver nogle tips så du hurtigt kan komme i gang. 😊 Du kan være med til træning to gange, før du beslutter, om du vil melde dig ind i klubben. Alle spillere skal have tøj på, som er passende til at dyrke sport (t-shirt, shorts, gummisko hvis vi er indendørs, eller gummisko eller fodboldstøvler hvis vi er udendørs. Knæbeskyttere kan også være gode at have), og vand. Vi har alt andet!
 
 {{<svg chase>}}
 
