@@ -1,5 +1,5 @@
 ---
-title: "Oficielle kluboplysninger"
+title: "Officielle kluboplysninger"
 weight: 98
 header_menu_title: "Kluboplysninger"
 navigation_menu_title: "Kluboplysninger"
@@ -7,8 +7,9 @@ header_menu: false
 detailed_page_path: /official/
 detailed_page_homepage_content: true
 ---
-Our club is a Folkeoplysende Forening in Københavns Kommune, and a member of DGI. We are headed by a board of 5 and an auditor. See [our official info page](official) for more info and official documents.
 
-![the 2024 Jugger Copenhagen board](/images/board.webp)
+Jugger Copenhagen er en folkeoplysende forening i Københavns Kommune, og er medlemsorganisation af DGI. Vi ledes af en bestyrelse på 5 og en revisor. For mere information se [vores officielle info-fane](official) - så finder du også vores officielle dokumenter som fx vedtægter.
 
-Also possibly of interest, we are currently migrating this website [from Notion](https://juggercph.notion.site/Jugger-Copenhagen-35038b95f769404ab41dd3816813577f), where you can probably find additional secret details if you want to go hunting!
+![Jugger Copenhagens bestyrelse 2024](/images/board.webp)
+
+I øjeblikket er vi ved at migrere denne hjemmeside [fra Notion](https://juggercph.notion.site/Jugger-Copenhagen-35038b95f769404ab41dd3816813577f).  Hvis du vil på jagt, kan du finde yderligere hemmelige detaljer på den gamle side.
