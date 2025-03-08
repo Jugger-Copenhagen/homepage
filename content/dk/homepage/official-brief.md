@@ -8,8 +8,8 @@ detailed_page_path: /official/
 detailed_page_homepage_content: true
 ---
 
-Jugger Copenhagen er registeret som folkeoplysende forening i Københavns Kommune, samt medlemsorganisation af DGI. Vi ledes af en bestyrelse på 5 og en revisor. Se [vores officielle info-fane](official) for flere oplysninger og officielle dokumenter.
+Jugger Copenhagen er en folkeoplysende forening i Københavns Kommune, og er medlemsorganisation af DGI. Vi ledes af en bestyrelse på 5 og en revisor. For mere information se [vores officielle info-fane](official) - så finder du også vores officielle dokumenter som fx vedtægter.
 
 ![Jugger Copenhagens bestyrelse 2024](/images/board.webp)
 
-Vi er i øjeblikket ved at migrere denne hjemmeside [fra Notion](https://juggercph.notion.site/Jugger-Copenhagen-35038b95f769404ab41dd3816813577f), hvor du kan finde yderligere hemmelige detaljer, hvis du vil på jagt!
+I øjeblikket er vi ved at migrere denne hjemmeside [fra Notion](https://juggercph.notion.site/Jugger-Copenhagen-35038b95f769404ab41dd3816813577f).  Hvis du vil på jagt, kan du finde yderligere hemmelige detaljer på den gamle side.
