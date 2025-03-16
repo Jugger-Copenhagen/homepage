@@ -19,7 +19,7 @@ You can try jugger out for 2 practices free of charge before deciding if you wan
 
 ### Cost
 * 25 and over: 200 kr. / quarter
-* Under 25: 120 kr. / quarter
+* 16-25: 120 kr. / quarter
 
 ### Instructions
 Membership is payable on the first day of the quarter (Jan 1, Apr 1, Jul 1, Oct 1).  We accept bank transfers:
@@ -63,6 +63,10 @@ Aside from that, your membership dues help us grow the club and keep our equipme
 ### ❓What if I leave halfway through a quarter?
 
 You remain a member until the end of the quarter, at which point your membership will end.
+
+### ❓What is the minimum age to play?
+
+Our constitution requires members to be 16 and older. It is possible to run private events with younger people (we have run birthday parties for kids as young as 8), but to be a regular member of the club you must be 16.
 
 ### ❓Why do you ask so many questions on the membership signup form, about my address, age, and gender?
 
