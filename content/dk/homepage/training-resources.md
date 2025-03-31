@@ -1,13 +1,12 @@
 ---
-title: "Training Resources"
+title: "Træningsressourcer"
 weight: 40
-header_menu_title: "Training Resources"
-navigation_menu_title: "Training Resources"
+header_menu_title: "Træningsressourcer"
+navigation_menu_title: "Træningsressourcer"
 header_menu: false
 detailed_page_path: /resources/
 detailed_page_homepage_content: true
 ---
-Want to learn to block chains or improve your field awareness on your own? We maintain a collection of [training resources](resources) to help you learn more, branch out, and build your skills.
-
+Vil du gerne lære at blokere kæder eller styrke din »field awareness«? Vi har samlet [træningsressourcer](resources) så du kan lære noget nyt og udvikle dine juggerkompetencer.
 
 {{<svg duel>}}
