@@ -25,3 +25,9 @@ go.work
 
 public/*
 resources/_gen/
+
+# Code assistants
+.claude/
+AGENTS.md
+CLAUDE.md
+.github/copilot-instructions.md
