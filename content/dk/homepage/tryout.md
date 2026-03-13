@@ -19,7 +19,7 @@ Nye spillere og medlemmer er altid velkomne. Når du kommer første gang, er det
 Info om indmeldelse i klubben står [her](joining).
 
 ### Vores træningstider
-Vi træner hver uge i København. Du kan se mere i vores kalender:
+Vi træner ugentligt i København. Se kommende træninger i vores kalender:
 
 {{< calendar >}}
 
