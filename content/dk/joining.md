@@ -2,7 +2,7 @@
 title: "Tilmelding til klubben"
 ---
 
-Jugger er relativ ny som sport, og derfor er færre der deltager erfarne med sporten. Vi glæder os til at lære dig! 🧑🏽‍🏫 Vi træner om lørdagen (tæt på Trianglen Metro om sommeren, indendørs på Spor10 på Jernbanebyen om vinteren); se den nedenstående kalendar for træningstider og kortpunkter.
+Jugger er en relativ ny sport, som mange her i Danmark har aldrig hørt af. Vi glæder os til at lære dig! 🧑🏽‍🏫 Vi træner om lørdagen (tæt på Trianglen Metro om sommeren, indendørs på Spor10 på Jernbanebyen om vinteren); se den nedenstående kalendar for træningstider og kortpunkter.
 
 Kig på billeder på [Instagram](https://www.instagram.com/juggercph/), eller videos på [YouTube](https://www.youtube.com/@JuggerCopenhagen/)!
 
