@@ -1,60 +1,52 @@
 ---
-title: "Tournaments with Skøll"
+title: "Turneringer med Skøll"
 ---
-Our traveling team, {{< skøll >}}, often visits Germany, Sweden, and other locations to compete in jugger tournaments. Sign up to come along, and don't forget to [order a jersey](https://tinyurl.com/skolljersey)!
+Vores turneringshold, {{< skøll >}}, tager ofte til Tyskland, Sverige, og andre lande for at deltage i juggerturneringer.  Tilmeld dig og kom med, og glem ikke at [købe din sportstrøje](https://tinyurl.com/skolljersey)!
 
-See our [current and past tournament signups on Turniere](https://turniere.jugger.org/list.team.info.php?lang=en&id=1387).
+Se [vores nuværende og tidligere turneringer på Turniere](https://turniere.jugger.org/list.team.info.php?lang=en&id=1387).
 
-## 2025
-We're still planning our 2025 tournament list 📆 Stay tuned!
-{{< tournamentlist >}}
-
-{{< svg score >}}
-
-## 2024 and earlier
-See our slideshows from [2024](https://docs.google.com/presentation/d/1g816zuHbUddpkBhVUjT8g6rc5lEQ-qgtcQndeMBZ97E/edit?usp=sharing) and [2023](https://docs.google.com/presentation/d/1VBA__c0dFqcb1uy2uRCcCFGVKEw3fcjWJItP1iG1KZE/edit#slide=id.p) for flavour info, and our old [Notion pages](https://juggercph.notion.site/Tournament-Plans-b9adb6d7f64d43b1ad6695d043619718) for logistics and details.
-
-![skøll warming up on the beach in Rostock](/images/beach.webp)
+![skøll opvarmning på stranden i Rostock](/images/beach.webp)
 ## How we travel
 
-### Who gets to be on the team?
-When we travel as {{< skøll >}}, we try to bring ~7 people with us to a tournament. We give first priority to our own team, based on who signs up using the year's signup form. We don't have "tryouts" for this, we just take the first 7 who make a firm commitment to attend. If we don't get 7 players from our own team, we will search for "mercenaries" from other teams.
+### Hvem kan spille på vores hold?
+Når vi rejser som {{< skøll >}}, søger vi for at være 7-8 på banen.  Vi opsætter en tilmeldingsformular, og så vælges hold efter først-til-mølle princippet.  Hvis vi ikke kan finde 7-8 fra vores egen klub, så prøver vi at finde "mercenaries" fra andre klubber.
 
-For very nearby tournaments, like Kieler Nordderby in April, we ask players to put down a 50 DKK deposit as soon as they know they want to attend: we'll then take the first 7 who put down the deposit. This will be announced in the group. The deposit will then go towards food at the tournament, and helps us ensure that we give spots to players who are definitely going to attend.
+Til turneringer der ligger tættere på København har vi en depositum af 50 kr., som skal betales for at sikre din plads på hold: så tager vi de første 7-8, der har betalt depositum.  I hvert fald er holdselektion annonceret på Discord.  Depositum bliver brugt til mad, og sikrer for at holdet består af dem, der har fast besluttede at tage med.
 
-### How much does it cost?
-Jugger Copenhagen will pay for:
-* tournament fees
-* transport of pompfen to and from the tournament (someone will have to pay for this upfront and get reimbursed)
+### Hvor meget koster det?
+Jugger Copenhagen betaler for:
+* registreringsgebyr til turneringen
+* transport af udstyr til og fra turneringen (det skal normalt betales forud, og tilbagebetales efter beregning af udgifter)
 
-You must pay for:
-* your own transportation to and from the tournament location
-* your own lodging at the tournament location (many tournaments provide free or cheap places to set a tent or sleeping bag)
-* your own food (see below)
-* deposit, if applicable
+Du skal betale for:
+* din egen transport til og fra turneringen
+* dit eget ophold under turneringen (langt de fleste turneringer giver gratis eller billige muligheder for at sætte telt op, ligge sovepose ind i en hal, osv.)
+* din egen mad (se nedenfor)
+* depositum, hvis det er relevant
 
-The cost of these varies widely depending on where the tournament is held, but going to Kiel is normally <800 DKK all-in.
+Prisen over det hele kommer an på, hvor turneringen er.  Fx koster det ca. 800 kr. i alt at tage med til Kiel.
 
-### How does tournament food work?
-We typically do a group purchase of food and snacks at the tournament so that everyone has things to eat on the field. This is coordinated by one of the senior people/trainer team who are attending, and the cost is split between the people who attend, with the deposit dealt with if required. When you are added to a group for a tournament, let us know if you have food allergies/restrictions so we can plan.
+### Hvordan spiser man på turneringer?
+Normalt organiserer vi fælles indkøb af mad og snacks, så alle har noget til at spise på banen.  Kosten deles mellem hele hold.  Når du tilføjes til en turneringsgruppe på Discord, skal du informere os om eventuelle allergier eller madrestriktioner, så vi kan bedre planlægge indkøb. 
 
-### What should I bring to a tournament?
-For on the field:
-* shoes or cleats (we'll note whether a pitch is grass, turf, or sand so you can plan)
-* {{< skøll >}} jersey (plus extras if you want to trade)
-* shorts, tights, or whatever you usually wear
-* socks
-* water bottle
-* rain gear and/or thermal gear if the forecast calls for it
-* sunscreen and lip balm
+### Hvad skal jeg bringe med til en turnering?
+På banen har du brug for:
+* løbesko eller sportsstøvler (vi fortæller dig om banen skal være af græs, kunstgræs, sand)
+* shorts, strømpebukser, og andre sportstøj, som du normalt tager på
+* sokker
+* drikkedunk
+* regntøj, hvis det står regn i vejrudsigtet
+* varme tøj (fx termolag), hvis koldt vejr forventes
+* solcreme og læbepomade
 
-For off the field:
-* clean clothes, including a sweatshirt (often we hang out outdoors for several hours after games; keep that in mind as you pack)
-* non-pitch shoes
-* towel, shower, and hygeine materials
-* camping cup, plate, and silverware for yourself
-* tent, sleeping bag, and sleeping mat (as required)
-* sleep mask and earplugs (as desired)
-* medications (as required)
+Uden for banen har du brug for:
+* rene tøj, inklusiv sweatshirt (vi hænger ud udenfor i flere timer om aftenen: vær opmærksom at det kan være rigtigt koldt, efter du svedede hele dagen!)
+* almindelige sko
+* håndklæde og andre materialer til brusebad
+* hygiejneprodukter (tandbørste, tandpasta, osv.)
+* kop, tallerken, og bestik til camping
+* telt, sovepose, sovemåtte
+* sovemaske og ørepropper
+* medicin
 
-![hugging the other teams after the match](/images/hug.webp)
+![efterkampskram](/images/hug.webp)
