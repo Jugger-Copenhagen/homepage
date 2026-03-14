@@ -3,11 +3,12 @@ title: "Official Club Info and Documents"
 ---
 The club started in the winter of 2017-18 when our very first set of equipment got built in the kantine at Unity. After a few years of playing and a global pandemic, we were officially founded as a folkeoplysende forening on January 29, 2022. We are based in Københavns Kommune and are a member of DGI. Our club is headed by a board of 3-5 and an auditor. For 2025, they are:
 
-* Cajetan Koschat (chair)
+* Evan Savage (chair)
 * Valkyrie Savage (vice chair)
-* Luca Victoria Bune Jensen (treasurer)
+* Nina Pikulska (treasurer)
 * Sophie Marie Ehgartner
-* Jim Wang (auditor)
+* Luca Victoria Bune Jensen
+* Elias Theil (auditor)
 
 As a forening, the club’s highest authority is the General Assembly. This is where you, the members, propose, discuss, and vote on various issues. These issues are often presented by the board, who receive the GA’s mandate to run the club’s day-to-day organization.
 
