@@ -9,7 +9,7 @@ See our [current and past tournament signups on Turniere](https://turniere.jugge
 ## How we travel
 
 ### Who gets to be on the team?
-When we travel as {{< skøll >}}, we try to bring ~7 people with us to a tournament. We give first priority to our own team, based on who signs up using the year's signup form. We don't have "tryouts" for this, we just take the first 7 who make a firm commitment to attend. If we don't get 7 players from our own team, we will search for "mercenaries" from other teams.
+When we travel as {{< skøll >}}, we try to bring 7-8 people with us to a tournament. We give first priority to our own team, based on who signs up using the year's signup form. We don't have "tryouts" for this, we just take the first 7 who make a firm commitment to attend. If we don't get 7 players from our own team, we will search for "mercenaries" from other teams.
 
 For very nearby tournaments, like Kieler Nordderby in April, we ask players to put down a 50 DKK deposit as soon as they know they want to attend: we'll then take the first 7 who put down the deposit. This will be announced in the group. The deposit will then go towards food at the tournament, and helps us ensure that we give spots to players who are definitely going to attend.
 
