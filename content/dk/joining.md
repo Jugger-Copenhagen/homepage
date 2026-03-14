@@ -24,7 +24,7 @@ Du kan prøve jugger 2 gange gratis før du beslutter, hvis du gerne vil melde d
 * Under 25 år: 120 kr. / kvartal
 
 ### Instructions
-Medlemskontingent skal betales ved begyndelsen af hvert kvartal (1. jan., 1. apr., 1. jul., 1. okt.).  Overførsler kan sendes til:
+Medlemskontingent skal betales ved begyndelsen af hvert kvartal (1. jan., 1. apr., 1. jul., 1. okt.).  Overførsler sendes til:
 
 * 🇩🇰 indenfor Danmark: 5327 0246710
 * 🌐 IBAN: DK4353270000246710
