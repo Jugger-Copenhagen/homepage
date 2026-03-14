@@ -5,20 +5,11 @@ Our traveling team, {{< skøll >}}, often visits Germany, Sweden, and other loca
 
 See our [current and past tournament signups on Turniere](https://turniere.jugger.org/list.team.info.php?lang=en&id=1387).
 
-## 2025
-We're still planning our 2025 tournament list 📆 Stay tuned!
-{{< tournamentlist >}}
-
-{{< svg score >}}
-
-## 2024 and earlier
-See our slideshows from [2024](https://docs.google.com/presentation/d/1g816zuHbUddpkBhVUjT8g6rc5lEQ-qgtcQndeMBZ97E/edit?usp=sharing) and [2023](https://docs.google.com/presentation/d/1VBA__c0dFqcb1uy2uRCcCFGVKEw3fcjWJItP1iG1KZE/edit#slide=id.p) for flavour info, and our old [Notion pages](https://juggercph.notion.site/Tournament-Plans-b9adb6d7f64d43b1ad6695d043619718) for logistics and details.
-
 ![skøll warming up on the beach in Rostock](/images/beach.webp)
 ## How we travel
 
 ### Who gets to be on the team?
-When we travel as {{< skøll >}}, we try to bring ~7 people with us to a tournament. We give first priority to our own team, based on who signs up using the year's signup form. We don't have "tryouts" for this, we just take the first 7 who make a firm commitment to attend. If we don't get 7 players from our own team, we will search for "mercenaries" from other teams.
+When we travel as {{< skøll >}}, we try to bring 7-8 people with us to a tournament. We give first priority to our own team, based on who signs up using the year's signup form. We don't have "tryouts" for this, we just take the first 7 who make a firm commitment to attend. If we don't get 7 players from our own team, we will search for "mercenaries" from other teams.
 
 For very nearby tournaments, like Kieler Nordderby in April, we ask players to put down a 50 DKK deposit as soon as they know they want to attend: we'll then take the first 7 who put down the deposit. This will be announced in the group. The deposit will then go towards food at the tournament, and helps us ensure that we give spots to players who are definitely going to attend.
 
