@@ -5,11 +5,12 @@ Klubben var stiftet i vinteren 2017-2018, da vores alleførste udstyrssæt blev 
 
 Jugger Copenhagen styres af vores 3-5 bestyrelsesmedlemmer samt revisoren, som i året 2025 er: 
 
-* Cajetan Koschat (formand)
+* Evan Savage (formand)
 * Valkyrie Savage (viceformand)
-* Luca Victoria Bune Jensen (kasserer)
+* Nina Pikulska (kasserer)
 * Sophie Marie Ehgartner
-* Jim Wang (revisor)
+* Luca Victoria Bune Jensen
+* Elias Theil (revisor)
 
 Som forening holder vi årligt vores generalforsamling, hvor I som medlemmer foreslår, diskuterer, og stemmer om det, der er vigtigt for klubbens drift og fremtid.  De fleste spørgsmål præsenteres af bestyrelsen, der får mandat til at styre klubben ifølge bestyrelsesvalget der sker som del af generalforsamlingen.
 
