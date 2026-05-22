@@ -29,7 +29,9 @@ Medlemskontingent skal betales ved begyndelsen af hvert kvartal (1. jan., 1. apr
 * 🇩🇰 indenfor Danmark: 5327 0246710
 * 🌐 IBAN: DK4353270000246710
 
-Skriv dit navn i kommentarfeltet, så vi kan mærke, hvem har betalt!  Det gøre det nemmere at vedligeholde vores medlemskabsliste. 🙂
+Skriv dit navn i kommentarfeltet, så vi kan mærke, hvem har betalt!  Det gøre det nemmere at vedligeholde vores medlemskabsliste. 🙂 De fleste banker gøre det muligt at oprette en fast kvartalig overførsel, så du ikke kan glemmer at betale.
+
+Vi acceptere ogsa MobilePay (detaljerne kan vises på vores [Forretningsbetingelser](/files/termsoftrade_dken.pdf)) på XXXXX.
 
 ![velkommen til jugger!](/images/hug2.webp)
 

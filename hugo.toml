@@ -102,11 +102,13 @@ enableEmoji = true
     languageCode = "en-US"
     contentDir = "content/en"
     title = "Jugger Copenhagen - Copenhagen's First Jugger Club"
-    description = "Copenhagen's First Jugger Club"
+    [languages.en.params]
+        description = "Copenhagen's First Jugger Club"
   [languages.dk]
     weight = 10
     languageName = "Dansk"
     languageCode = "da-DK"
     contentDir = "content/dk"
     title = "Jugger Copenhagen - Københavns første jugger club"
-    description = "Københavns første jugger club"
+    [languages.dk.params]
+        description = "Københavns første jugger club"

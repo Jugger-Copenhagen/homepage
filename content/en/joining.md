@@ -28,19 +28,15 @@ Membership is payable on the first day of the quarter (Jan 1, Apr 1, Jul 1, Oct 
 * 🌐 IBAN: DK4353270000246710
 
 Include your name in the transfer text, so that we can tell who has paid!
-This makes it a lot easier to keep our membership list up to date 🙂
+This makes it a lot easier to keep our membership list up to date 🙂 Most banks will allow you to set up a repeating payment so that you never forget.
+
+You can also pay via MobilePay (see our [Terms of Trade](/files/termsoftrade_dken.pdf)) to XXXXX.
 
 ![welcome to jugger!](/images/hug2.webp)
 
 ----
 
 ## Membership FAQ
-
-### ❓Do you take MobilePay / Betalingservice?
-
-Unfortunately not, as these services are too expensive for a small club like ours!
-
-The best option for regular payments is to set up a standing order with your bank to pay each quarter.
 
 ### ❓What if I join halfway through a quarter?
 
