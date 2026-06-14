@@ -2,12 +2,6 @@
 
 Based on Hugo.
 
-## Global TODO
-
-- Add more SEO information to website headers.
-- Style Google Calendar plugin to match remaining pages.
-- Danish language support.
-
 ### Calendar
 
 The non-Google fancy calendar is made with [FullCalendar](https://fullcalendar.io), an almost plug-and-play JS plugin. The calendar is implemented as the {{< calendar >}} shortcode that inserts the required HTML etc. The JS plugin is loaded in custom_head.html. Configuration options for the calendar are specified in the JavaScript code in the shortcode.
