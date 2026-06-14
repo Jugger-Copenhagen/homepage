@@ -67,6 +67,12 @@ Derudover hjælper din medlemskontingent at vokse klubben og holde udstyret i go
 
 Så bliver du medlem til kvartalets afslutning, hvor slutter dit medlemskab officielt.
 
+### ❓Hvad er aldersgrænsen for at deltage?
+
+Du skal være fyldt 14 år for at tilmelde dig Jugger Copenhagen.
+
+Vi har afholdt private begivenheder for yngre deltagere (fx fødselsdagsfester til børn fra 8 år), men som medlem skal du være mindst 14 år.
+
 ### ❓Hvorfor spørger klubben om min adresse, alder, og kønsidentitet?
 
 Vi er medlemsorganisation af [DGI](https://dgi.dk/), der som paraplyorganisation kamper for motion for alle.  De dækker medlemsklubber med gruppeforsikring, og giver andre forme for støtte til os - og det nyder vi godt af.
