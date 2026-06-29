@@ -22,15 +22,16 @@ You can try jugger out for 2 practices free of charge before deciding if you wan
 * 16-25: 120 kr. / quarter
 
 ### Instructions
-Membership is payable on the first day of the quarter (Jan 1, Apr 1, Jul 1, Oct 1).  We accept bank transfers:
+Membership is payable on the first day of the quarter (Jan 1, Apr 1, Jul 1, Oct 1).  We accept:
 
-* 🇩🇰 within Denmark: 5327 0246710
-* 🌐 IBAN: DK4353270000246710
+* 🇩🇰 Danish bank transfer: 5327 0246710
+* 🌐 International bank transfer: DK4353270000246710
+* 📱 MobilePay: #110253
 
 Include your name in the transfer text, so that we can tell who has paid!
 This makes it a lot easier to keep our membership list up to date 🙂 Most banks will allow you to set up a repeating payment so that you never forget.
 
-You can also pay via MobilePay (see our [Terms of Trade](/files/termsoftrade_dken.pdf)) to 110253.
+See also our [Terms of Trade](/files/termsoftrade_dken.pdf) for MobilePay.
 
 ![welcome to jugger!](/images/hug2.webp)
 
