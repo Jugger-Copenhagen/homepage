@@ -1,21 +1,21 @@
 ---
-title: "Tilmelding til klubben"
+title: "Indmelding i klubben"
 ---
 
-Jugger er en relativ ny sport, som mange her i Danmark har aldrig hørt af. Vi glæder os til at lære dig! 🧑🏽‍🏫 Vi træner om lørdagen (tæt på Trianglen Metro om sommeren, indendørs på Spor10 på Jernbanebyen om vinteren); se den nedenstående kalendar for træningstider og kortpunkter.
+Jugger er en relativ ny sport, som mange her i Danmark aldrig har hørt om. Vi glæder os til at byde dig velkommen og lære dig spillet! 🧑🏽‍🏫 Vi træner om lørdagen (tæt på Trianglen Metro station om sommeren, indendørs i Spor10 i Jernbanebyen om vinteren); se tid og sted i kalenderen nedenfor.
 
-Kig på billeder på [Instagram](https://www.instagram.com/juggercph/), eller videos på [YouTube](https://www.youtube.com/@JuggerCopenhagen/)!
+Se billeder på [Instagram](https://www.instagram.com/juggercph/), eller videoer på [YouTube](https://www.youtube.com/@JuggerCopenhagen/)!
 
-Du kan prøve jugger 2 gange gratis før du beslutter, hvis du gerne vil melde dig til klubben. Vi opdaterer vores kalender løbende med kommende træninger:
+Du kan komme to gange gratis inden du beslutter, om du gerne vil melde dig ind i klubben. Vi opdaterer løbende vores kalender med kommende træninger:
 {{< calendar >}}
 
 ---
 
-## Vil du melde dig til?
+## Vil du gerne melde dig ind?
 
-1. Kom til 1-2 træninger og prøve den!
-2. Udfyld vores [medlemskab formularen](https://tinyurl.com/juggercphregistration).
-3. Betal din medlemskontingent (se nedfor).
+1. Kom til 1-2 træninger og prøv det!
+2. Udfyld vores [medlemskab formular](https://tinyurl.com/juggercphregistration).
+3. Betal medlemskontingentet (se nedfor).
 
 ## Betaling af medlemskontingent
 
@@ -23,16 +23,16 @@ Du kan prøve jugger 2 gange gratis før du beslutter, hvis du gerne vil melde d
 * 25 år og derover: 200 kr. / kvartal
 * Under 25 år: 120 kr. / kvartal
 
-### Instructions
-Medlemskontingent skal betales ved begyndelsen af hvert kvartal (1. jan., 1. apr., 1. jul., 1. okt.).  Overførsler sendes til:
+### Instruktioner
+Medlemskontingent betales ved begyndelsen af hvert kvartal (1. jan., 1. apr., 1. jul., 1. okt.). Overførsler sendes til:
 
 * 🇩🇰 indenfor Danmark: 5327 0246710
 * 🌐 IBAN: DK4353270000246710
 * 📱 MobilePay: #110253
 
-Skriv dit navn i kommentarfeltet, så vi kan mærke, hvem har betalt!  Det gøre det nemmere at vedligeholde vores medlemskabsliste. 🙂 De fleste banker gøre det muligt at oprette en fast kvartalig overførsel, så du ikke kan glemmer at betale.
+Skriv dit navn i kommentarfeltet, så vi kan se hvem har betalt! Det gør det nemmere at vedligeholde vores medlemskabsliste. 🙂 De fleste banker gør det muligt at oprette en gentagende overførsel, så du ikke glemmer at betale.
 
-Man kan også læse vores [Forretningsbetingelser](/files/termsoftrade_dken.pdf) til MobilePay.
+Du kan læse vores [Forretningsbetingelser til MobilePay her](/files/termsoftrade_dken.pdf).
 
 ![velkommen til jugger!](/images/hug2.webp)
 
@@ -40,52 +40,46 @@ Man kan også læse vores [Forretningsbetingelser](/files/termsoftrade_dken.pdf)
 
 ## FAQ til medlemskab
 
-### ❓Accepterer klubben MobilePay / Betalingservice?
+### ❓Hvad med dem, der melder sig til midt i et kvartal?
 
-Desværre kan vi ikke, for disse er alt for dyrt for sådan en lille klub, som vi er.
+Dit første kvartal fordeles på månedsbasis til 67 kr. om måneden.  Fx hvis du melder dig ind d. 12. maj., betaler du 134 kr. for maj og juni, og derefter 200 kr. per kvartal som normalt.
 
-Hvis du forventer at blive langvarig medlem af klubben, kan du oprette en fast kvartalig overførsel.
-
-### ❓Hvad om dem, der melder sig til midt i kvartal?
-
-Dit første kvartal fordeles på månedsbasis til 67 kr. om måneden.  Fx hvis du melde dig til d. 12. maj., betaler du 134 kr. til maj og juni, og derefter 200 kr. pro kvartal som normalt.
-
-### ❓Hvad får jeg med medlemskontingenten?
+### ❓Hvad får jeg med medlemskontingentet?
 
 Som medlem kan du:
 
 - komme til vores ugentlige træninger;
-- få adgang til vores interne Signalgruppe, hvor deles billeder og diskuteres kommende begivenheder, særlige beslutninger, og andre ting som er af interesse for klubbens medlemmer;
+- få adgang til vores interne Discord gruppe, hvor vi deler billeder og diskuterer kommende begivenheder, særlige beslutninger, og andre ting som er til interesse for klubbens medlemmer;
 - deltage i turneringer som del af klubbens hold;
 - deltage i vores generalforsamling, julefrokost, og andre private sociale begivenheder;
 - få {{< skøll darkblue >}} merch;
 - hjælpe med at vedligeholde udstyret, organisere begivenheder, og styre klubben;
 - stille dig op til bestyrelsen.
 
-Derudover hjælper din medlemskontingent at vokse klubben og holde udstyret i god drift 💪
+Derudover hjælper dit medlemskontingent med at gøre klubben større og holde udstyret i god stand 💪
 
-### ❓Og hvis jeg melde mig af midt i kvartal?
+### ❓Hvad hvis jeg melder mig ud midt i et kvartal?
 
-Så bliver du medlem til kvartalets afslutning, hvor slutter dit medlemskab officielt.
+Så forbliver du medlem indtil kvartalets afslutning, hvorefter dit medlemskab officielt slutter.
 
 ### ❓Hvad er aldersgrænsen for at deltage?
 
-Du skal være fyldt 14 år for at tilmelde dig Jugger Copenhagen.
+Du skal være fyldt 14 år for at være medlem af Jugger Copenhagen.
 
 Vi har afholdt private begivenheder for yngre deltagere (fx fødselsdagsfester til børn fra 8 år), men som medlem skal du være mindst 14 år.
 
-### ❓Hvorfor spørger klubben om min adresse, alder, og kønsidentitet?
+### ❓Hvorfor spørger klubben om min adresse, alder og kønsidentitet?
 
-Vi er medlemsorganisation af [DGI](https://dgi.dk/), der som paraplyorganisation kamper for motion for alle.  De dækker medlemsklubber med gruppeforsikring, og giver andre forme for støtte til os - og det nyder vi godt af.
+Vi er medlemsorganisation af [DGI](https://dgi.dk/), der som paraplyorganisation kæmper for motion for alle. De dækker medlemsklubber med gruppeforsikring, og giver andre former for støtte til os - og det nyder vi godt af.
 
-Til gengæld har DGI brug for at vise klart deres indvirkning i idrætsforeningsliv.  Så kræver DGI, at alle medlemsklubber (som vi er!) skal årligt indsende en overblik over alder og kønsidentitet af deres medlemmer.
+Til gengæld har DGI brug for at kunne påvise deres effekt i idrætsforeningslivet. Derfor kræver DGI, at alle medlemsklubber som os årligt skal indsende et overblik over alder og kønsidentitet af deres medlemmer.
 
-Jugger Copenhagen modtager også tilskud fra Københavns Kommune til unge medlemmer (under 25 år).  Kommunen kræver oplysninger om alder og addresse til medlemmer, så de kan nemlig se, hvem gælder tilskuddet til.
+Jugger Copenhagen modtager også tilskud fra Københavns Kommune til unge medlemmer (under 25 år). Kommunen kræver derfor også oplysninger om alder og addresse af medlemmer, så de kan se hvem tilskuddet gives for.
 
-Vi sletter årligt data om dem, der ikke har været medlem i 1 år når vi holder generalforsamling i marts.  Hvis du har spørgsmål eller klager om datapolitik, kontakt venligst bestyrelsen.
+Vi sletter årligt data om dem, der ikke har været medlem i 1 år når vi holder generalforsamling i marts. Hvis du har spørgsmål eller klager om datapolitik, kontakt venligst bestyrelsen.
 
 ### ❓Kan jeg deltage som rejsende juggerspiller?
 
-Det kan du nemlig gøre!  Rejsende juggerspillere er altid velkomne at kom med til træninger.  Det er vigtigt for os, at vores medlemmer er udsat for det internationale fællesskab i juggerverden.
+Det kan du sagtens gøre! Rejsende juggerspillere er altid velkomne til at deltage i træninger.  Det er vigtigt for os, at vores medlemmer også er del af det internationale fællesskab i juggerverdenen.
 
-Kontakt bestyrelsen på [juggercopenhagen@gmail.com](mailto:juggercopenhagen@gmail.com).  Jo tidligere du kontakter os, jo nemmere det er at finde én, der kan huse dig under din juggertur i København.
+Kontakt gerne bestyrelsen på [juggercopenhagen@gmail.com](mailto:juggercopenhagen@gmail.com).  Jo tidligere du kontakter os, jo nemmere er det at finde en, der kan huse dig under din juggertur i København.
