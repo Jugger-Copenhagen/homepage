@@ -48,7 +48,7 @@ Your first quarter is pro-rated on a per-month basis, at 67 kr. per month.  As a
 Members can:
 
 - come to our regular weekly practices;
-- access our internal Signal group, where we share training photos and discuss upcoming events, decisions, and other things of interest to the club;
+- access our internal Discord group, where we share training photos and discuss upcoming events, decisions, and other things of interest to the club;
 - attend tournaments as part of the club's teams;
 - participate in our Annual General Meeting, Holiday Party, and other private events;
 - get {{< skøll darkblue >}} merch;
