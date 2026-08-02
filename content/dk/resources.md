@@ -2,7 +2,7 @@
 title: Træningsressourcer
 ---
 
-På denne side samler vi ressourcer til at blive klogere om jugger, deltage i eller organisere turneringer, og engagere dig i den internationale juggerkultur. Her findes de følgende emner:
+På denne side samler vi ressourcer til at lære mere om jugger, deltage i eller organisere turneringer, og engagere dig i den internationale juggerkultur. Vi har følgende emner:
 
 1. [En introduktion til jugger]({{< ref "/resources#en-introduktion-til-jugger" >}})
 2. [Turneringer og klubber]({{< ref "/resources#turneringer-og-klubber" >}})
@@ -12,17 +12,17 @@ På denne side samler vi ressourcer til at blive klogere om jugger, deltage i el
 
 ## En introduktion til jugger
 
-### Jugger in 45 seconds
+### Jugger på 45 sekunder
 
 {{< youtube H5KGov_Sajs >}}
 
-### A brief, 5-minute introduction to Jugger
+### En kort 5-minutters introduktion til Jugger
 
 {{< youtube pY78Wwy_YPA >}}
 
 ## Turneringer og klubber
 
-- Organisationen [International Jugger Council](http://juggercouncil.org) fører en [kort over verdens juggerhold](https://juggercouncil.org/en/map), samt [forums til jugger](https://juggercouncil.org/en/play/#connect_with_community).
+- Organisationen [International Jugger Council](http://juggercouncil.org) har et [kort over verdens juggerhold](https://juggercouncil.org/en/map), samt [forumer til jugger](https://juggercouncil.org/en/play/#connect_with_community).
 - Tyske turneringer, og langt de fleste internationelle turneringer, organiseres på [Turniere](http://turniere.jugger.org).
 - Spanske turneringer kan findes på [Torneo](https://www.jugger.es/torneos_master.php).
 
@@ -34,21 +34,21 @@ På denne side samler vi ressourcer til at blive klogere om jugger, deltage i el
 
 ### Jugger Masterclass YouTube channel
 
-Rigtig flot videoproduktion, men ikke så meget kommentar. God inspiration til dig, der søger til noget nyt at lære.
+Rigtig flot videoproduktion, men ikke så meget kommentering. God inspiration til dig, der leder efter noget nyt at lære.
 
 {{< youtube ahp8TG2ygOM >}}
 
 ## Kampe og højdepunkter
 
-- [Jugger Copenhagen's own Youtube Channel](https://www.youtube.com/@JuggerCopenhagen) - vores egne kampe fra forskellige turneringer, vi deltog i
+- [Jugger Copenhagen's egen Youtube Channel](https://www.youtube.com/@JuggerCopenhagen) - vores egne kampe fra forskellige turneringer, vi har deltaget i 
 - [JuggerTube](https://www.youtube.com/@WatchJUGGER) - kæmpe udvalg af tyske juggerkampe
 - [PlayJugger](https://www.youtube.com/@PlayJugger) - kæmpe udvalg af spanske juggerkampe
 - [Colorado Jugger](https://www.youtube.com/@ColoradoJugger) - stort udvalg af amerikanske juggerkampe
-- [Jugger Australis](https://www.youtube.com/@juggeraustralis3776) - stort udvalg af australiske juggerkampe
+- [Jugger Australis](https://www.youtube.com/@juggeraustralis3776) - stort udvalg af australske juggerkampe
 
 ## Værktøj og regler
 
-- [Tyske regelbøger](https://www.jugger.org/downloads) - vi spiller ifølge [vores egen 🇬🇧 oversættelse](https://docs.google.com/document/d/1B77ufGU5-koR5nv8_aQ7Ts92PIj90dc8tjCpHA62xm8) af de tyske regler.
+- [Tyske regelbøger](https://www.jugger.org/downloads) - vi spiller efter [vores egen 🇬🇧 oversættelse](https://docs.google.com/document/d/1B77ufGU5-koR5nv8_aQ7Ts92PIj90dc8tjCpHA62xm8) af de tyske regler.
 - [Spillekort til strategi](/files/jugger_strategy_deck-2sided.pdf) - denne PDF indeholder spillekort med forskellige startstrategier, og kan udskrives så du kan bruge dem på banen.
 
 ### Jugger Trainer
