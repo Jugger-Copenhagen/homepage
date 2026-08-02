@@ -20,7 +20,7 @@ Our players and those who visit us are bound by our Code of Conduct (below), and
 Our club requires a lot of work to run! We currently rely on a few groups of volunteers to keep things moving:
 
 * the quartermasters keep our gear in shape and build new equipment. Talk to Sophie or Martin if you are interested in joining.
-* the trainers run our practice sessions, as well as events with externals. Talk to Evan, Valkyrie, Sophie, Cajetan, Billie, or Michael if you are interested in joining.
+* the trainers run our practice sessions, as well as events with externals. Talk to Evan, Valkyrie, Sophie, Cajetan, or Michael if you are interested in joining.
 * the tournament organization team put together the first-ever Danish jugger tournament, 2024's [PB&J](https://turniere.jugger.org/list.team.info.php?id=1387). Talk to Valkyrie, Evan, or Luca if you are interested in helping organize the next one!
 
 {{< svg qwiks >}}
