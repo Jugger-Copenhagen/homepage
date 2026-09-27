@@ -24,8 +24,8 @@ You can try jugger out for 2 practices free of charge before deciding if you wan
 ### Instructions
 Membership is payable on the first day of the quarter (Jan 1, Apr 1, Jul 1, Oct 1).  We accept:
 
-* 🇩🇰 Danish bank transfer: 5327 0246710
-* 🌐 International bank transfer: DK4353270000246710
+* 🇩🇰 Danish bank transfer: 9070 1648059961
+* 🌐 International bank transfer: DK2090701648059961
 * 📱 MobilePay: #110253
 
 Include your name in the transfer text, so that we can tell who has paid!
