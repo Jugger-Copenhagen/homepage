@@ -26,8 +26,8 @@ Du kan komme to gange gratis inden du beslutter, om du gerne vil melde dig ind i
 ### Instruktioner
 Medlemskontingent betales ved begyndelsen af hvert kvartal (1. jan., 1. apr., 1. jul., 1. okt.). Overførsler sendes til:
 
-* 🇩🇰 indenfor Danmark: 5327 0246710
-* 🌐 IBAN: DK4353270000246710
+* 🇩🇰 indenfor Danmark: 9070 1648059961
+* 🌐 IBAN: DK2090701648059961
 * 📱 MobilePay: #110253
 
 Skriv dit navn i kommentarfeltet, så vi kan se hvem har betalt! Det gør det nemmere at vedligeholde vores medlemskabsliste. 🙂 De fleste banker gør det muligt at oprette en gentagende overførsel, så du ikke glemmer at betale.
